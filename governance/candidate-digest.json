@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.0",
+  "artifactId": "primary-industries-teacher-candidate-digest-v1",
+  "frozenDate": "2026-09-02",
+  "digestAlgorithm": "sha256(path-tab-bytes-tab-file_sha256-newline)",
+  "excludedGovernanceRecords": [
+    "governance/candidate-digest.json",
+    "governance/content-audit-report.json",
+    "governance/course-acceptance-report.json",
+    "governance/live-verification-report.json",
+    "governance/release-record.json",
+    "governance/visual-audit-report.json"
+  ],
+  "fileCount": 22,
+  "totalBytes": 2158951,
+  "candidateSha256": "27f582cc6197fcfd7f839209070d84c9e0d86a03834a8b744f87d91576e25212",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 235,
+      "sha256": "dc8e0fdbc69d6d341889dc7e728481029e8ea4ed9dbf499ac75edb0448509fda"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "assets/app.js",
+      "bytes": 31891,
+      "sha256": "8e9a742b0201b840eae7351ef49a865ebb27fe483c2f65f4b97dcf38bf62cd2d"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 267,
+      "sha256": "6910a329b08ddeb10d7e84524f7ce25c927e59803848bf355399401a4a1a28fe"
+    },
+    {
+      "path": "assets/resource-data.js",
+      "bytes": 194703,
+      "sha256": "6194fd5866588e48fad3487a3921c963023bf4ef22b75901bc54bd71d22795f7"
+    },
+    {
+      "path": "assets/site-data.js",
+      "bytes": 113729,
+      "sha256": "648c800f55e99878e4ccde3d19f469f954c1a1295139e6677844c1fc35f10944"
+    },
+    {
+      "path": "assets/styles.css",
+      "bytes": 25670,
+      "sha256": "95528de9628fd73def3dde51f7422355870e4e9f8aeafdb23c61e1fa8b2f35d2"
+    },
+    {
+      "path": "downloads/Primary_Industries_Aligned_Teacher_Delivery_Program.docx",
+      "bytes": 120842,
+      "sha256": "88a0caa9fcc0b12e6b21579bcd7eccd1b3b7882dbb7287c46560cd9153a20c26"
+    },
+    {
+      "path": "downloads/Primary_Industries_Aligned_Teacher_Delivery_Program.pdf",
+      "bytes": 1439825,
+      "sha256": "87d8484accbda9b6e93a0acafb0517d4b52458a1960d98f97dcf4967eec052ca"
+    },
+    {
+      "path": "downloads/Primary_Industries_Delivery_Ledger.csv",
+      "bytes": 1814,
+      "sha256": "ea557ecc8d5e9d6fd529fddd012310feb6faafe0fb2cbd7216470f73b46da98c"
+    },
+    {
+      "path": "governance/foundation-manifest.json",
+      "bytes": 2504,
+      "sha256": "b48ddecd1f65ff771275f707eeb89ba8f7a98bb2517985352371306ff72c591c"
+    },
+    {
+      "path": "governance/integration-manifest.json",
+      "bytes": 2392,
+      "sha256": "3b7da95a9bf6af0c896700e33e87671d3f1c2142b3a11e99742e86871733c999"
+    },
+    {
+      "path": "governance/resource-inventory.json",
+      "bytes": 139932,
+      "sha256": "b6c1a2119c64b9eac3de4e04714a6722e0e39eb0b9e7e94f9b6373c660c56d6e"
+    },
+    {
+      "path": "governance/route-map.json",
+      "bytes": 6377,
+      "sha256": "468739552fb96bcd19859405a63019d669ddf2d90d0b1dd27417c5c046feecd3"
+    },
+    {
+      "path": "governance/source-map.json",
+      "bytes": 45058,
+      "sha256": "db9bcf978db2aacc3c16ec4fba793858fbbf9768e00cbdd3fccb9a060c4486fc"
+    },
+    {
+      "path": "governance/source-register.md",
+      "bytes": 5063,
+      "sha256": "2aa087c47dc6b6958a3e7646ef1b71bf80792882b5f58945d9bd8dd36374cdfc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5563,
+      "sha256": "d14a56ec1ffbe1d02120970b62f768b755876b3531c81a0724de5f7b3a316392"
+    },
+    {
+      "path": "library.html",
+      "bytes": 4607,
+      "sha256": "a3e3627cb69490887d17352a9433079db0ce772d7f8cc4a856ede4c62910bbda"
+    },
+    {
+      "path": "program.html",
+      "bytes": 6003,
+      "sha256": "203538f32abe510a57a17d7a837dc0925f2147ec33e3c266e8f0b526f6dbdc56"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1178,
+      "sha256": "aa318206a5a1de82fb8f2821600f82d2106fdf3ba98b56a6295a9485b2f73635"
+    },
+    {
+      "path": "sources.html",
+      "bytes": 8731,
+      "sha256": "9827808d48523a7d5aad0a247cd22ff921064b53276e1448ff40ec4f02d4be6e"
+    },
+    {
+      "path": "task.html",
+      "bytes": 2566,
+      "sha256": "18b7948c8428e1bf0dd65653ddf50a5437ff4df859ad34a62354928e8d2996d6"
+    }
+  ]
+}

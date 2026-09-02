@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "1.0",
+  "artifactId": "primary-industries-teacher-visual-audit-v1",
+  "audit": "Primary Industries teacher-resource visual and accessibility audit",
+  "auditedAt": "2026-09-02",
+  "verdict": "PASS",
+  "releaseReady": true,
+  "candidateDigest": {
+    "algorithm": "SHA-256",
+    "value": "27f582cc6197fcfd7f839209070d84c9e0d86a03834a8b744f87d91576e25212",
+    "scopedFiles": 22,
+    "independentlyRecalculated": true
+  },
+  "scopeBoundary": "Teacher-only authenticated-file navigator and delivery-program site; not a student learning-package build.",
+  "photographicCoverage": {
+    "qualifyingPhotographs": 0,
+    "sourceMapTarget": 0,
+    "sourceMapExceptionState": "ACCEPTED",
+    "evidence": "The frozen Stage 01 source map records a precise lower target of zero because no source-safe photograph has a necessary teaching role in this teacher-only navigator. Adding photographs would be decorative and could create rights or privacy risk. The favicon is identity decoration and is not counted as substantive photography."
+  },
+  "testedViewports": [
+    {
+      "label": "laptop",
+      "viewport": "1600x900",
+      "result": "All five routes have zero page-level horizontal overflow, no clipped visible content, no missing images and clear navigation and actions."
+    },
+    {
+      "label": "responsive",
+      "viewport": "390x844",
+      "result": "All five routes remain contained with zero page-level horizontal overflow; headings, actions, filters and task content stack and wrap legibly."
+    }
+  ],
+  "testedRoutes": [
+    {
+      "route": "/index.html",
+      "viewports": ["laptop", "390px"],
+      "result": "Teacher identity, purpose, boundary warning and two primary actions remain immediately clear; cards stack without collision."
+    },
+    {
+      "route": "/program.html",
+      "viewports": ["laptop", "390px"],
+      "result": "DOCX, PDF and CSV actions remain prominent and readable. The wide unit register is contained in a keyboard-focusable region labelled 'Horizontally scrollable complete unit register'."
+    },
+    {
+      "route": "/library.html",
+      "viewports": ["laptop", "390px"],
+      "result": "Search and four select filters are visibly labelled; mobile controls stack at full width and exact-file actions retain a clear primary treatment."
+    },
+    {
+      "route": "/task.html?id=task-22",
+      "viewports": ["laptop", "390px"],
+      "result": "The task selector, full task title, source-program action, file action and guide-control card remain readable and contained."
+    },
+    {
+      "route": "/sources.html",
+      "viewports": ["laptop", "390px"],
+      "result": "Source boundary, governance actions and staff-only cues remain legible with no clipping or overflow."
+    }
+  ],
+  "accessibilityChecks": [
+    {
+      "check": "Navigation and focus",
+      "status": "PASS",
+      "evidence": "Desktop navigation is visible at laptop width. At 390px the native details/summary Menu opens six named links, keeps zero page overflow and displays a visible gold focus outline."
+    },
+    {
+      "check": "Control labels and touch presentation",
+      "status": "PASS",
+      "evidence": "The DOM exposes the search box, task, teaching-purpose, file-type and currency controls with accessible names. Primary mobile actions are 44-49px high; inline text links remain normal inline-link exceptions."
+    },
+    {
+      "check": "Colour and meaning",
+      "status": "PASS",
+      "evidence": "Teacher, source, currency, task and boundary meanings are stated in text and are not conveyed by colour alone."
+    },
+    {
+      "check": "Images and assets",
+      "status": "PASS",
+      "evidence": "No substantive visual placements are in scope, no image request fails on any tested route, and no unmanifested teaching visual is present."
+    }
+  ],
+  "pdfRender": {
+    "file": "downloads/Primary_Industries_Aligned_Teacher_Delivery_Program.pdf",
+    "pagesInspected": 83,
+    "evidence": "All 83 rendered pages were reconciled through the ten contact sheets. Tables, links, headings, boundary callouts, ledgers, headers and footers are legible with stable margins and no clipping, overlap, broken glyphs or cropped rows. Intentional white space from controlled page breaks is not a rendering failure.",
+    "result": "PASS"
+  },
+  "assetAndPlacementFindings": [],
+  "issues": [],
+  "originalReworkOwner": null,
+  "acceptanceCondition": "Satisfied. No material visual or accessibility release gate remains for the frozen candidate."
+}

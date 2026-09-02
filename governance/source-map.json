@@ -1,0 +1,858 @@
+{
+  "schemaVersion": "1.0",
+  "artifactId": "primary-industries-teacher-resources-public-source-map-v1",
+  "verifiedDate": "2026-09-02",
+  "course": {
+    "title": "Primary Industries Teacher Resources",
+    "subtitle": "VET Statewide Staffroom navigator",
+    "frameworkSourceWording": "Primary Industries",
+    "qualificationSourceWording": "AHC20122 Certificate II in Agriculture",
+    "audience": "Teachers only"
+  },
+  "authority": {
+    "factAuthority": "Authenticated VET Statewide Staffroom Resources / Primary Industries section",
+    "sourceRoot": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared Documents/Primary Industries",
+    "authenticatedAccessVerified": true,
+    "sourceCapture": {
+      "foldersRegistered": 162,
+      "filesRegistered": 767,
+      "inventorySha256": "60d85c34894e8b4db6ae96d02973d85086f055b9f89078cf2866282bf8b1b8ea"
+    },
+    "currentProgramSource": {
+      "sourceArea": "2026 Resources/Cert II Agriculture",
+      "programFiles": 22,
+      "sourceCodedUnitEntries": 26,
+      "programExtractSha256": "0c06f4578af24068aa63a6c0fddf18006b6951615b80061fe96155a2ef24732c",
+      "programArchitectureSha256": "dcd249340ecf8373de643800f8b1b7b773e2f3b77858bd6ef2b58405e7514803",
+      "publicResourceDataSha256": "2b22df5bfadd77fef51ea1faba851ade2247ade57663d8b00398f5107c450795"
+    }
+  },
+  "programBoundary": {
+    "purpose": "Teacher master navigator and source-aligned delivery-program architecture.",
+    "selection": "All 22 current 2026 source program files are registered. Their inclusion does not claim that one school or cohort delivers every elective, stream or source-indicative hour.",
+    "assessment": "No assessment sufficiency, competency, result, learner evidence or controlled instrument is represented.",
+    "planned_actual": "Source-indicative hours remain separate from blank local planned and actual fields."
+  },
+  "counts": {
+    "stable_tasks": 22,
+    "hsc_programs": 7,
+    "non_hsc_task_programs": 15,
+    "source_coded_unit_entries": 26,
+    "unique_source_unit_codes": 26,
+    "source_indicative_hour_sum_across_all_registered_programs": 376,
+    "publicMetadataSafeResources": 65,
+    "excludedInventoryRecords": 702
+  },
+  "categoryRegister": [
+    {
+      "id": "hsc-work-practices",
+      "label": "HSC work practices",
+      "description": "Source-mapped HSC programs for chemicals, WHS, sustainability and weather."
+    },
+    {
+      "id": "hsc-industry-production",
+      "label": "HSC industry and production",
+      "description": "Source-mapped HSC programs for industry communication, livestock welfare and plant health."
+    },
+    {
+      "id": "machinery-biosecurity",
+      "label": "Machinery and biosecurity",
+      "description": "Non-HSC source programs for tractors, machinery and biosecurity cleaning workflows."
+    },
+    {
+      "id": "farm-infrastructure",
+      "label": "Farm infrastructure",
+      "description": "Non-HSC source programs for electric and conventional farm fencing."
+    },
+    {
+      "id": "livestock-operations",
+      "label": "Livestock operations",
+      "description": "Non-HSC source programs for feed, water, identification, competition, observation and handling."
+    },
+    {
+      "id": "plants-soils-nursery",
+      "label": "Plants, soils and nursery",
+      "description": "Non-HSC source programs for planting, recognition, propagation, soils and nursery care."
+    }
+  ],
+  "taskRegister": [
+    {
+      "sequence": 1,
+      "stableId": "hsc-3-1",
+      "taskLabel": "3.1 Chemicals and weeds",
+      "sourceTaskTitle": "Task 3.1 – Chemicals (Chemicals and Weeds)",
+      "categoryId": "hsc-work-practices",
+      "sourceProgramFamily": "HSC program",
+      "sourceProgramFile": "3.1 Chemicals - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.1 Chemicals - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.1%20Chemicals%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "246c5b21abfe0714d2797ca8fdb62f5544527046e3b9d1feb1d6906eb2afd2e8",
+      "units": [
+        {
+          "code": "AHCCHM201",
+          "title": "Apply chemicals under supervision",
+          "status": "Elective",
+          "nesa_indicative_hours": 20,
+          "source_code_warning": false
+        },
+        {
+          "code": "AHCPMG201",
+          "title": "Treat weeds",
+          "status": "Elective",
+          "nesa_indicative_hours": 10,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 30,
+      "deliveryFocusCount": 5,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-02",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 2,
+      "stableId": "hsc-3-2",
+      "taskLabel": "3.2 Work health and safety",
+      "sourceTaskTitle": "Task 3.2 – Safety (WHS)",
+      "categoryId": "hsc-work-practices",
+      "sourceProgramFamily": "HSC program",
+      "sourceProgramFile": "3.2 Safety - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.2 Safety - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.2%20Safety%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "74d830278071ec4812bb68fd1a0dd3a0b57fbf39052f57597238907e15ce266b",
+      "units": [
+        {
+          "code": "AHCWHS202",
+          "title": "Participate in work health and safety processes",
+          "status": "Mandatory",
+          "nesa_indicative_hours": 15,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 15,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-02",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 3,
+      "stableId": "hsc-3-3",
+      "taskLabel": "3.3 Environmentally sustainable work",
+      "sourceTaskTitle": "Task 3.3 – Sustainability (Environmentally Sustainable)",
+      "categoryId": "hsc-work-practices",
+      "sourceProgramFamily": "HSC program",
+      "sourceProgramFile": "3.3 Sustainability - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.3 Sustainability - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.3%20Sustainability%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "7c451c00a61ace16edbb9f970174175ab2e8c02fbdb99802f37b515f1d403825",
+      "units": [
+        {
+          "code": "AHCWRK211",
+          "title": "Participate in environmentally sustainable work practices",
+          "status": "Mandatory",
+          "nesa_indicative_hours": 15,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 15,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-02",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 4,
+      "stableId": "hsc-3-4",
+      "taskLabel": "3.4 Weather observation and reporting",
+      "sourceTaskTitle": "Task 3.4 – Weather",
+      "categoryId": "hsc-work-practices",
+      "sourceProgramFamily": "HSC program",
+      "sourceProgramFile": "3.4 Weather - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.4 Weather - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.4%20Weather%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "e118ad31a2c7b7f870023c0c7b70ff4065cbc06f65585f23f8648a1fc54a6dff",
+      "units": [
+        {
+          "code": "AHCWRK210",
+          "title": "Observe and report on weather",
+          "status": "Elective",
+          "nesa_indicative_hours": 15,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 15,
+      "deliveryFocusCount": 4,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-02",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 5,
+      "stableId": "hsc-3-5",
+      "taskLabel": "3.5 Working and communicating in industry",
+      "sourceTaskTitle": "Task 3.5 – Working in the industry (Communicate and Work Effectively)",
+      "categoryId": "hsc-industry-production",
+      "sourceProgramFamily": "HSC program",
+      "sourceProgramFile": "3.5 Working in the industry 2AG- VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.5 Working in the industry 2AG- VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.5%20Working%20in%20the%20industry%202AG-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "fae4ea4c6d543fd039e8b71bfb7717e12c3406f5157d9fbc078e3bcf03d9b288",
+      "units": [
+        {
+          "code": "AHCWRK212",
+          "title": "Work effectively in industry",
+          "status": "Mandatory",
+          "nesa_indicative_hours": 20,
+          "source_code_warning": false
+        },
+        {
+          "code": "AHCWRK213",
+          "title": "Participate in workplace communications",
+          "status": "Elective",
+          "nesa_indicative_hours": 10,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 30,
+      "deliveryFocusCount": 5,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-02",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 6,
+      "stableId": "hsc-3-6",
+      "taskLabel": "3.6 Livestock health and welfare",
+      "sourceTaskTitle": "Task 6 – Care for health and welfare of livestock",
+      "categoryId": "hsc-industry-production",
+      "sourceProgramFamily": "HSC program",
+      "sourceProgramFile": "3.6 Health and welfare - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.6 Health and welfare - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.6%20Health%20and%20welfare%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "24dac43276ba91af1a4e947977620843e209e3bf33a0ca1064de393a5175f4d6",
+      "units": [
+        {
+          "code": "AHCLSK222",
+          "title": "Care and Welfare of livestock",
+          "status": "Stream",
+          "nesa_indicative_hours": 20,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 20,
+      "deliveryFocusCount": 5,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-02",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 7,
+      "stableId": "hsc-3-7",
+      "taskLabel": "3.7 Plant pests, diseases and disorders",
+      "sourceTaskTitle": "Task 3.7 – Plant pests, diseases and disorders",
+      "categoryId": "hsc-industry-production",
+      "sourceProgramFamily": "HSC program",
+      "sourceProgramFile": "3.7 Treat plants - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.7 Treat plants - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.7%20Treat%20plants%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "c67a3b2bf47282c5f50beb73e31955a0b521908944189701379c8409e58c1c9d",
+      "units": [
+        {
+          "code": "AHCPMG202",
+          "title": "Treat plants, pests, diseases and disorders",
+          "status": "Elective",
+          "nesa_indicative_hours": 20,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 20,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-02",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 8,
+      "stableId": "task-3",
+      "taskLabel": "Task 3 — Tractors and machinery",
+      "sourceTaskTitle": "Task 3 – Operate tractors",
+      "categoryId": "machinery-biosecurity",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 3  - Operate tractors & machinery - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 3  - Operate tractors & machinery - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%203%20%20-%20Operate%20tractors%20%26%20machinery%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "ff744bbae0386823340529168007b1a0c97c532b32d7c1deeb0174746f145253",
+      "units": [
+        {
+          "code": "AHCMOM202",
+          "title": "Operate tractors",
+          "status": "Elective",
+          "nesa_indicative_hours": 20,
+          "source_code_warning": false
+        },
+        {
+          "code": "AHCMOM304",
+          "title": "Operate machinery and equipment",
+          "status": "Elective",
+          "nesa_indicative_hours": 15,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 35,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 9,
+      "stableId": "task-4",
+      "taskLabel": "Task 4 — Machinery and equipment biosecurity",
+      "sourceTaskTitle": "Task 4 – Inspect and clean machinery, tools and equipment to preserve biosecurity",
+      "categoryId": "machinery-biosecurity",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 4 -  Biosecurity - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 4 -  Biosecurity - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%204%20-%20%20Biosecurity%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "b90941cb38be8a9699fc05c5175686127b8b0973c256e02d211ce2df54935099",
+      "units": [
+        {
+          "code": "AHCBIO203",
+          "title": "Inspect and clean machinery, tools and equipment to preserve biosecurity",
+          "status": "Elective",
+          "nesa_indicative_hours": 10,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 10,
+      "deliveryFocusCount": 5,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 10,
+      "stableId": "task-10",
+      "taskLabel": "Task 10 — Electric fencing",
+      "sourceTaskTitle": "Task 10 – Carry out basic electric fencing operations",
+      "categoryId": "farm-infrastructure",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 10 - Electric fencing - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 10 - Electric fencing - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2010%20-%20Electric%20fencing%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "78a0383baa81e0f61f31848b0e3f72ac8ebfe434297d1ac70b368f2e4760378f",
+      "units": [
+        {
+          "code": "AHCINF205",
+          "title": "Carry out basic electric fencing operations",
+          "status": "Elective",
+          "nesa_indicative_hours": 10,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 10,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 11,
+      "stableId": "task-11",
+      "taskLabel": "Task 11 — Farm fencing",
+      "sourceTaskTitle": "Task 11 – Install, maintain and repair farm fencing",
+      "categoryId": "farm-infrastructure",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 11 - Farm fencing- VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 11 - Farm fencing- VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2011%20-%20Farm%20fencing-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "54a3804f507619673d5254898e1ed0209b84d96695838295b71cc8366a51fa2b",
+      "units": [
+        {
+          "code": "AHCINF206",
+          "title": "Install, maintain and repair farm fencing",
+          "status": "Elective",
+          "nesa_indicative_hours": 11,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 11,
+      "deliveryFocusCount": 4,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 12,
+      "stableId": "task-12",
+      "taskLabel": "Task 12 — Provide feed for livestock",
+      "sourceTaskTitle": "Task 12 – Provide feed for livestock",
+      "categoryId": "livestock-operations",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 12 - Provide Feed - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 12 - Provide Feed - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2012%20-%20Provide%20Feed%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "cd309fa1024c4e5e6ce7610639fe6b5cc402198a1f726ea0e8e2c91b0dfe7756",
+      "units": [
+        {
+          "code": "AHCLSK229",
+          "title": "Provide feed for livestock",
+          "status": "Elective",
+          "nesa_indicative_hours": 10,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 10,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 13,
+      "stableId": "task-13",
+      "taskLabel": "Task 13 — Monitor water supplies",
+      "sourceTaskTitle": "Task 13 – Monitor water supplies",
+      "categoryId": "livestock-operations",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 13 - Monitor water - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 13 - Monitor water - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2013%20-%20Monitor%20water%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "467b658d6760cd07ab908ceae4b8055a4bcfbf0541f2b9147dc63282463ad119",
+      "units": [
+        {
+          "code": "AHCLSK227",
+          "title": "Monitor water supplies",
+          "status": "Elective",
+          "nesa_indicative_hours": 10,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 10,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 14,
+      "stableId": "task-14",
+      "taskLabel": "Task 14 — Identify and mark livestock",
+      "sourceTaskTitle": "Task 14 – Identify and mark livestock",
+      "categoryId": "livestock-operations",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 14 - Identify and mark - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 14 - Identify and mark - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2014%20-%20Identify%20and%20mark%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "eae8b370eeb99d1dadea11ccf48d19e008c52b9aa2ac308d2f7d1a4526a2cd70",
+      "units": [
+        {
+          "code": "AHCLSK225",
+          "title": "Identify and mark livestock",
+          "status": "Elective",
+          "nesa_indicative_hours": 10,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 10,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 15,
+      "stableId": "task-15",
+      "taskLabel": "Task 15 — Plant trees and shrubs",
+      "sourceTaskTitle": "Task 15 – Plant trees and shrubs",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 15 Plant trees and shrubs - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 15 Plant trees and shrubs - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2015%20Plant%20trees%20and%20shrubs%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "7d74bbe2b55c68d19f1722a0368cbdf86172b174a72b2e46f9afb6c46db57461",
+      "units": [
+        {
+          "code": "AHCPGD207",
+          "title": "Plant trees and shrubs",
+          "status": "Elective",
+          "nesa_indicative_hours": 20,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 20,
+      "deliveryFocusCount": 5,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 16,
+      "stableId": "task-16",
+      "taskLabel": "Task 16 — Recognise plants",
+      "sourceTaskTitle": "Task 16 – Recognise plants",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 16 - Recognise plants - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 16 - Recognise plants - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2016%20-%20Recognise%20plants%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "f2ce7f5136b0e9ae179bfbabd38fb7586c306cc3b6d90e1f82855897cba01309",
+      "units": [
+        {
+          "code": "AHCPCM204",
+          "title": "Recognise plants",
+          "status": "Elective",
+          "nesa_indicative_hours": 20,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 20,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 17,
+      "stableId": "task-17",
+      "taskLabel": "Task 17 — Plant propagation",
+      "sourceTaskTitle": "Task 17 – Undertake propagation activities",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 17 Propagation - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 17 Propagation - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2017%20Propagation%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "2fd38d099c9bbd1a241e48d8d3b0709d2333674a6ded7535ea292aa1d84f2fff",
+      "units": [
+        {
+          "code": "AHCNSY207",
+          "title": "Undertake propagation activities",
+          "status": "Elective",
+          "nesa_indicative_hours": 20,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 20,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 18,
+      "stableId": "task-18",
+      "taskLabel": "Task 18 — Soil and growing-media sampling",
+      "sourceTaskTitle": "Task 18 – Assist with soil or growing media sampling and testing",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 18 Soil Sampling and Testing- VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 18 Soil Sampling and Testing- VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2018%20Soil%20Sampling%20and%20Testing-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "e760c442056cd52569b6fd49af671cad9e543bb22bda247a73a032eb9498a79b",
+      "units": [
+        {
+          "code": "AHCSOL203",
+          "title": "Assist with soil or growing media sampling and testing",
+          "status": "Elective",
+          "nesa_indicative_hours": 15,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 15,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 19,
+      "stableId": "task-19",
+      "taskLabel": "Task 19 — Pot up plants",
+      "sourceTaskTitle": "Task 19 – Pot up plants",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 19 - Pot up plants - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 19 - Pot up plants - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2019%20-%20Pot%20up%20plants%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "bce161a077a747e5581ed30b3755ce260a76127622c14d5aaf68859547ab9044",
+      "units": [
+        {
+          "code": "AHCNSY205",
+          "title": "Pot up plants",
+          "status": "Elective",
+          "nesa_indicative_hours": 10,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 10,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 20,
+      "stableId": "task-20",
+      "taskLabel": "Task 20 — Care for nursery plants",
+      "sourceTaskTitle": "Task 20 – Care for nursery plants",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 20 -  Nursery plants - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 20 -  Nursery plants - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2020%20-%20%20Nursery%20plants%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "bdd14d41f7c6bb77543e9dc2708df1e23821fa5d226e7d1b2abdb441f961bd7d",
+      "units": [
+        {
+          "code": "AHCNSY206",
+          "title": "Care for nursery plants",
+          "status": "Elective",
+          "nesa_indicative_hours": 15,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 15,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 21,
+      "stableId": "task-21",
+      "taskLabel": "Task 21 — Prepare livestock for competition",
+      "sourceTaskTitle": "Task 21 – Prepare livestock for competition",
+      "categoryId": "livestock-operations",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "Task 21 Livestock competition - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 21 Livestock competition - VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2021%20Livestock%20competition%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "1709d732c57321b54e361eeb03426d464fea8a57663a69c092e6bd5546574f66",
+      "units": [
+        {
+          "code": "AHCLSK355",
+          "title": "Prepare livestock for competition",
+          "status": "Elective",
+          "nesa_indicative_hours": 15,
+          "source_code_warning": false
+        }
+      ],
+      "sourceIndicativeHours": 15,
+      "deliveryFocusCount": 3,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    },
+    {
+      "sequence": 22,
+      "stableId": "task-22",
+      "taskLabel": "Task 22 — Observe and handle livestock",
+      "sourceTaskTitle": "Task 22 – Handle and observe livestock",
+      "categoryId": "livestock-operations",
+      "sourceProgramFamily": "Non-HSC task program",
+      "sourceProgramFile": "TASK 22 Handle and observe livestock- VET Teaching Program TEMPLATE.docx",
+      "sourceProgramPath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/TASK 22 Handle and observe livestock- VET Teaching Program TEMPLATE.docx",
+      "sourceProgramDirectUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/TASK%2022%20Handle%20and%20observe%20livestock-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "sourceProgramSha256": "4979e2035da090f63fb6ae51945b13753b99771ab3f93b7f35facd3cec16375d",
+      "units": [
+        {
+          "code": "AHCLSK223",
+          "title": "Carry out regular livestock observation",
+          "status": "Elective",
+          "nesa_indicative_hours": 10,
+          "source_code_warning": false
+        },
+        {
+          "code": "ACHLSK224",
+          "title": "Handle livestock using basic techniques",
+          "status": "Elective",
+          "nesa_indicative_hours": 10,
+          "source_code_warning": true
+        }
+      ],
+      "sourceIndicativeHours": 20,
+      "deliveryFocusCount": 5,
+      "teacherRtoConfirmationIds": [
+        "PI-TC-01",
+        "PI-TC-03",
+        "PI-TC-04",
+        "PI-TC-05"
+      ],
+      "sourceBoundary": "Curriculum and delivery mapping only; not assessment sufficiency, competency, or authorisation to disclose a controlled instrument."
+    }
+  ],
+  "teacherRtoConfirmRegister": [
+    {
+      "id": "PI-TC-01",
+      "decision": "Confirm local RTO, cohort, selected qualification pathway/electives, calendar, delivery order and planned hours.",
+      "due_before": "Adopting the master navigator as the local delivery program"
+    },
+    {
+      "id": "PI-TC-02",
+      "decision": "Confirm how the HSC filename sequence 3.1-3.7 relates to the source task titles, including the 3.6 file whose internal title reads Task 6.",
+      "due_before": "Local task numbering is printed or copied into assessment records"
+    },
+    {
+      "id": "PI-TC-03",
+      "decision": "Confirm the Task 22 source code written as ACHLSK224; the public navigator must preserve it as source-stated until corrected by the Staffroom owner/RTO.",
+      "due_before": "Using the code in formal RTO or enrolment records"
+    },
+    {
+      "id": "PI-TC-04",
+      "decision": "Confirm the current authorised assessment task destinations, versions, conditions and controlled instruments.",
+      "due_before": "Assessment orientation or formal evidence collection"
+    },
+    {
+      "id": "PI-TC-05",
+      "decision": "Confirm local procedures, supervision, equipment, PPE, chemicals, livestock, plant, machinery, biosecurity, farm access, environmental controls and work-placement arrangements.",
+      "due_before": "Each affected practical or workplace activity"
+    },
+    {
+      "id": "PI-TC-06",
+      "decision": "Confirm which optional or historical Staffroom resources remain suitable for the local cohort.",
+      "due_before": "Classroom use of a non-2026 supporting file"
+    }
+  ],
+  "sourceInconsistencies": [
+    {
+      "id": "PI-SI-01",
+      "severity": "confirm",
+      "source": "3.6 Health and welfare - VET Teaching Program TEMPLATE.docx",
+      "finding": "The filename is numbered 3.6 but the internal source task title reads 'Task 6 – Care for health and welfare of livestock'.",
+      "handling": "Use stable ID hsc-3-6 for navigation, preserve the source title separately and require PI-TC-02 before local task numbering is adopted."
+    },
+    {
+      "id": "PI-SI-02",
+      "severity": "confirm",
+      "source": "TASK 22 Handle and observe livestock- VET Teaching Program TEMPLATE.docx",
+      "finding": "The source states unit code ACHLSK224 for 'Handle livestock using basic techniques'.",
+      "handling": "Preserve ACHLSK224 as source-stated, flag source_code_warning and require PI-TC-03 before formal RTO or enrolment use."
+    },
+    {
+      "id": "PI-SI-03",
+      "severity": "note",
+      "source": "Task 3  - Operate tractors & machinery - VET Teaching Program TEMPLATE.docx",
+      "finding": "The filename refers to tractors and machinery while the internal task title reads 'Task 3 – Operate tractors'; the source maps both AHCMOM202 and AHCMOM304.",
+      "handling": "Use the neutral navigator label 'Task 3 — Tractors and machinery' while preserving the internal source title and both source unit relationships."
+    }
+  ],
+  "sourceLimitations": [
+    "All 22 source Registration columns are blank.",
+    "Teaching Strategies cells are blank or contain only a direction to the teacher to add or integrate strategies and resources.",
+    "The source programs therefore support curriculum mapping and workflow architecture, but not a claim that ready-to-run practical, formative or assessment activities were supplied.",
+    "NESA indicative-hour values are source metadata and must not be copied into local planned or actual hours without PI-TC-01 confirmation."
+  ],
+  "publicMetadataBoundary": {
+    "directLinksRequireDepartmentalSignIn": true,
+    "publishFileContents": false,
+    "publishControlledOrSensitiveMetadata": false,
+    "folderLinksSecondaryOnly": true,
+    "includedRecords": 65,
+    "excludedRecords": 702,
+    "selectionPolicy": [
+      "Include every exact current 2026 Cert II Agriculture program source from the verified program extract.",
+      "Include non-controlled shared 2026 teaching resources, selected AHCv9 references, generic authenticated professional-learning recordings and the NESA keywords reference.",
+      "Keep direct and containing-folder URLs exactly as captured; both require departmental sign-in.",
+      "Publish filename/path metadata only. Do not copy source file contents into the public dataset."
+    ],
+    "exclusionPolicy": [
+      "Exclude inventory-controlled or potentially sensitive records, private or answer-adjacent metadata, zero-byte records and unreviewed photos/images.",
+      "Exclude Archive, Past Exams, Evidence Central feedback and AHCv8 legacy areas.",
+      "Exclude superseded 2025 programs, other qualifications, Stage 5, event/operational material and low-confidence wider areas."
+    ],
+    "residualRisks": [
+      "The inventory crawl classified metadata and did not inspect the contents of most linked files. Departmental sign-in remains the access control.",
+      "A publicMetadataSafe value of true applies to the displayed filename/path metadata, not to unrestricted republication of file contents.",
+      "AHCv9 reference files and recordings are hidden by default and require a teacher currency check before use.",
+      "Specific chemicals, machinery, livestock, biosecurity, farm-access, work-placement and safety procedures remain Teacher/RTO to confirm.",
+      "The source-typed ACHLSK224 code and the Task 3.6 internal-title inconsistency remain unresolved source issues; this curation does not silently correct them."
+    ]
+  },
+  "visualCoverage": {
+    "purposefulPhotographTarget": 0,
+    "justification": "This is a teacher-only authenticated-file navigator and delivery-program site, not a student learning-package build. Republished photography would be decorative, could create rights/privacy risk and would not teach an in-scope student concept. Existing Staffroom visuals remain authenticated pointers only."
+  },
+  "routes": [
+    "index.html",
+    "program.html",
+    "library.html",
+    "task.html?id=<stable-program-id>",
+    "sources.html"
+  ],
+  "releaseGate": {
+    "repository": "stevencowell/primary-industries-statewide-staffroom-teacher-resources",
+    "liveUrl": "https://stevencowell.github.io/primary-industries-statewide-staffroom-teacher-resources/",
+    "publicationAuthorisedOnlyAfterAcceptance": true,
+    "studentSiteLinkOnlyAfterTeacherSiteLiveVerification": true
+  }
+}

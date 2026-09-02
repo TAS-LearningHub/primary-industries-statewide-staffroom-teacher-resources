@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "artifactId": "primary-industries-teacher-content-audit-v1",
+  "auditDate": "2026-09-02",
+  "auditType": "independent focused content, privacy and source-fidelity audit",
+  "result": "PASS",
+  "candidate": {
+    "sha256": "27f582cc6197fcfd7f839209070d84c9e0d86a03834a8b744f87d91576e25212",
+    "fileCount": 22,
+    "digestVerifiedImmediatelyBeforeReport": true
+  },
+  "scope": "Teacher-only authenticated Staffroom navigator and source-aligned delivery-program site; not a student learning package or assessment system.",
+  "authority": {
+    "source": "Authenticated VET Statewide Staffroom Resources / Primary Industries section only",
+    "inventorySha256": "60d85c34894e8b4db6ae96d02973d85086f055b9f89078cf2866282bf8b1b8ea",
+    "verifiedInputHashes": 4,
+    "sourceProgramsVerified": 22
+  },
+  "checks": [
+    {
+      "id": "CONTENT-01",
+      "result": "PASS",
+      "evidence": "All 22 frozen task guides reconcile to the 22 inspected 2026 source-program files, source titles and hashes; all 26 source-coded unit entries, 80 delivery blocks and the 376-hour full source register reconcile to the program architecture."
+    },
+    {
+      "id": "CONTENT-02",
+      "result": "PASS",
+      "evidence": "All 65 public metadata pointers reconcile to the curated dataset and raw 767-file inventory. Each pointer remains inside the authenticated Primary Industries SharePoint boundary, has publicMetadataSafe=true and controlled=false, and contains no session or access token. The published split is 30 current-2026, 27 AHCv9 reference and 8 supporting pointers; 702 inventory records remain excluded."
+    },
+    {
+      "id": "CONTENT-03",
+      "result": "PASS",
+      "evidence": "The six Teacher/RTO confirmation items remain explicit. The 3.6/internal Task 6 title difference, source-typed ACHLSK224 code and Task 3 title/two-unit relationship remain visibly preserved as the three documented source inconsistencies."
+    },
+    {
+      "id": "CONTENT-04",
+      "result": "PASS",
+      "evidence": "The DOCX, matched 83-page PDF and CSV hashes match the frozen integration manifest. The DOCX and PDF each expose 66 unique authenticated Staffroom destinations and no off-boundary external destination. The PDF contains all 22 stable task IDs and all 26 unit entries with zero empty pages. The ledger has 22 rows, 16 columns, a 376-hour source total and all 12 local planned/actual/sign-off fields blank."
+    },
+    {
+      "id": "CONTENT-05",
+      "result": "PASS",
+      "evidence": "No controlled instrument, answer, learner/workplace record, personal contact detail, local filesystem path or authentication secret was found in the public candidate. Assessment sufficiency and competency are explicitly disclaimed, and source file contents remain in authenticated SharePoint."
+    },
+    {
+      "id": "CONTENT-06",
+      "result": "PASS",
+      "evidence": "All five physical routes and all three program downloads returned HTTP 200 from the frozen local candidate during this audit."
+    }
+  ],
+  "automaticRejectionConditions": {
+    "competenceClaimWithoutAuthority": false,
+    "controlledOrPrivateMaterialExposed": false,
+    "claimsBeyondControllingSource": false,
+    "sisterSiteFactsImported": false,
+    "authorisedAssessmentDestinationObscuredOrReplaced": false
+  },
+  "documentedNonBlockingSourceItems": [
+    "PI-SI-01: 3.6 filename and internal Task 6 title relationship remains Teacher/RTO to confirm.",
+    "PI-SI-02: ACHLSK224 remains preserved exactly as source-stated and flagged for RTO confirmation.",
+    "PI-SI-03: Task 3 retains the source filename/internal-title distinction and both mapped units.",
+    "The 376 hours are the complete source-register total, not a confirmed local timetable or elective selection."
+  ],
+  "findings": [],
+  "releaseDecision": "Content gate passed for this exact frozen candidate. Any change to a route, asset, data mapping or download invalidates the affected checks."
+}

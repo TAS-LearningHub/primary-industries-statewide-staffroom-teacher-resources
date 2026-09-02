@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "artifactId": "primary-industries-teacher-integration-v1",
+  "integratedDate": "2026-09-02",
+  "status": "LOCAL_CANDIDATE",
+  "authority": "Authenticated VET Statewide Staffroom Resources / Primary Industries section only",
+  "inputs": {
+    "staffroomInventorySha256": "60d85c34894e8b4db6ae96d02973d85086f055b9f89078cf2866282bf8b1b8ea",
+    "sourceMapSha256": "d759ff1f23ca23731ec21941816586e4dedaf0f3fadd1449521afcf37fdbcc7d",
+    "programArchitectureSha256": "dcd249340ecf8373de643800f8b1b7b773e2f3b77858bd6ef2b58405e7514803",
+    "publicResourceDataSha256": "2b22df5bfadd77fef51ea1faba851ade2247ade57663d8b00398f5107c450795"
+  },
+  "scope": {
+    "inventoryFiles": 767,
+    "reviewedPublicMetadataPointers": 65,
+    "current2026Pointers": 30,
+    "sourcePrograms": 22,
+    "sourceUnitEntries": 26,
+    "sourceIndicativeHoursAcrossFullRegister": 376,
+    "taskGuideIds": 22,
+    "sourceDerivedGroups": 6,
+    "deliveryBlocks": 80,
+    "routes": [
+      "index.html",
+      "program.html",
+      "library.html",
+      "task.html?id=<stable-id>",
+      "sources.html"
+    ]
+  },
+  "downloads": [
+    {
+      "path": "downloads/Primary_Industries_Aligned_Teacher_Delivery_Program.docx",
+      "sha256": "88a0caa9fcc0b12e6b21579bcd7eccd1b3b7882dbb7287c46560cd9153a20c26"
+    },
+    {
+      "path": "downloads/Primary_Industries_Aligned_Teacher_Delivery_Program.pdf",
+      "sha256": "87d8484accbda9b6e93a0acafb0517d4b52458a1960d98f97dcf4967eec052ca"
+    },
+    {
+      "path": "downloads/Primary_Industries_Delivery_Ledger.csv",
+      "sha256": "ea557ecc8d5e9d6fd529fddd012310feb6faafe0fb2cbd7216470f73b46da98c"
+    }
+  ],
+  "boundaries": {
+    "assessment": "No answers, controlled instruments, learner evidence, assessment sufficiency or competency claims.",
+    "resources": "Public metadata pointers only; departmental sign-in remains required.",
+    "program": "The complete 22-template register is not a confirmed local elective selection or timetable.",
+    "visualTarget": 0,
+    "visualException": "This teacher-only authenticated-file navigator has no student learning packages; added photographs would be decorative and could exceed rights, privacy or source authority."
+  },
+  "invalidation": "Any change to a route, asset, data file, download or source mapping after candidate freeze requires the affected audit and acceptance checks to be rerun."
+}

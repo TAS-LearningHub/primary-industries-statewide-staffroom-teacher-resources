@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "1.0",
+  "artifactId": "primary-industries-teacher-course-acceptance-v1",
+  "acceptanceDate": "2026-09-02",
+  "decision": "ACCEPTED",
+  "releaseReady": true,
+  "candidate": {
+    "sha256": "27f582cc6197fcfd7f839209070d84c9e0d86a03834a8b744f87d91576e25212",
+    "fileCount": 22,
+    "digestIndependentlyVerified": true
+  },
+  "scope": "Teacher-only authenticated VET Statewide Staffroom navigator and source-aligned delivery-program package; not a student learning course, assessment instrument or evidence system.",
+  "requiredAuditInputs": [
+    {
+      "report": "governance/content-audit-report.json",
+      "result": "PASS",
+      "candidateSha256": "27f582cc6197fcfd7f839209070d84c9e0d86a03834a8b744f87d91576e25212"
+    },
+    {
+      "report": "governance/visual-audit-report.json",
+      "result": "PASS",
+      "candidateSha256": "27f582cc6197fcfd7f839209070d84c9e0d86a03834a8b744f87d91576e25212",
+      "photographicTarget": 0,
+      "photographicTargetException": "Accepted exactly as justified in the Stage 01 source map for this teacher-only navigator."
+    },
+    {
+      "report": "primary-industries-source-pack/technical-journey-report.json",
+      "result": "PASS",
+      "candidateSha256": "27f582cc6197fcfd7f839209070d84c9e0d86a03834a8b744f87d91576e25212"
+    }
+  ],
+  "releaseCriticalJourneys": [
+    {
+      "id": "ACCEPT-01",
+      "result": "PASS",
+      "evidence": "The landing page, complete program, resource library, task guide and source-boundary routes render with stable navigation, one clear H1, skip navigation, Main Page return and no missing local references. Laptop and exact 390 px checks report zero page-level horizontal overflow."
+    },
+    {
+      "id": "ACCEPT-02",
+      "result": "PASS",
+      "evidence": "All 22 stable task IDs render the matching named guide and authorised source-program action; the task selector retains all 22 options."
+    },
+    {
+      "id": "ACCEPT-03",
+      "result": "PASS",
+      "evidence": "The library defaults to 30 current-2026 records, expands to all 65 reviewed records and exposes 65 unique exact-file actions plus containing-folder fallbacks. Every file action remains inside the authenticated Primary Industries Staffroom boundary."
+    },
+    {
+      "id": "ACCEPT-04",
+      "result": "PASS",
+      "evidence": "The DOCX, 83-page PDF and CSV downloads return HTTP 200 and their served bytes match the frozen local hashes. The PDF render audit found no empty, clipped, overlapping or broken pages."
+    },
+    {
+      "id": "ACCEPT-05",
+      "result": "PASS",
+      "evidence": "Keyboard-focus, labels, headings, touch presentation, mobile menu, source warnings and teacher/RTO boundaries are usable. There are zero browser-console errors and no controlled assessment material, answers, private records, competency claims or local paths in the candidate."
+    }
+  ],
+  "explicitlyOutOfScope": [
+    "student learning modules and theory journeys",
+    "autosave, migration, backup, restore and reset protection",
+    "student evidence export or folio",
+    "assessment destinations, assessment instruments and competency decisions",
+    "student-facing presentations, videos and formative activities"
+  ],
+  "materialDefects": [],
+  "reworkOwners": [],
+  "acceptanceStatement": "ACCEPTED for authorised publication at this exact candidate digest. Any change to an in-scope route, asset, data mapping or download requires a new digest and affected audit rerun. Live verification remains a separate post-deployment gate."
+}

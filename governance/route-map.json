@@ -1,0 +1,200 @@
+{
+  "schemaVersion": "1.0",
+  "artifactId": "primary-industries-teacher-route-map-v1",
+  "physicalRoutes": [
+    {
+      "route": "index.html",
+      "purpose": "Teacher landing and grouped guide entry"
+    },
+    {
+      "route": "program.html",
+      "purpose": "Complete source-aligned program and downloads"
+    },
+    {
+      "route": "library.html",
+      "purpose": "Reviewed direct-file library with filters"
+    },
+    {
+      "route": "task.html",
+      "purpose": "Parameterized task/program guide template"
+    },
+    {
+      "route": "sources.html",
+      "purpose": "Source, privacy and assessment boundary"
+    }
+  ],
+  "logicalTaskRoutes": [
+    {
+      "stableId": "hsc-3-1",
+      "route": "task.html?id=hsc-3-1",
+      "label": "3.1 — Chemicals and weeds",
+      "categoryId": "hsc-work-practices",
+      "sourceProgramResourceId": "pi-res-a1d521070a2b15df"
+    },
+    {
+      "stableId": "hsc-3-2",
+      "route": "task.html?id=hsc-3-2",
+      "label": "3.2 — Work health and safety",
+      "categoryId": "hsc-work-practices",
+      "sourceProgramResourceId": "pi-res-aaae6947e557cfe1"
+    },
+    {
+      "stableId": "hsc-3-3",
+      "route": "task.html?id=hsc-3-3",
+      "label": "3.3 — Environmentally sustainable work",
+      "categoryId": "hsc-work-practices",
+      "sourceProgramResourceId": "pi-res-8771c16649ce9573"
+    },
+    {
+      "stableId": "hsc-3-4",
+      "route": "task.html?id=hsc-3-4",
+      "label": "3.4 — Weather observation and reporting",
+      "categoryId": "hsc-work-practices",
+      "sourceProgramResourceId": "pi-res-290c7bb73546719e"
+    },
+    {
+      "stableId": "hsc-3-5",
+      "route": "task.html?id=hsc-3-5",
+      "label": "3.5 — Working and communicating in industry",
+      "categoryId": "hsc-industry-production",
+      "sourceProgramResourceId": "pi-res-e3dd8766599808e4"
+    },
+    {
+      "stableId": "hsc-3-6",
+      "route": "task.html?id=hsc-3-6",
+      "label": "3.6 — Livestock health and welfare",
+      "categoryId": "hsc-industry-production",
+      "sourceProgramResourceId": "pi-res-39dc2956c787492e"
+    },
+    {
+      "stableId": "hsc-3-7",
+      "route": "task.html?id=hsc-3-7",
+      "label": "3.7 — Plant pests, diseases and disorders",
+      "categoryId": "hsc-industry-production",
+      "sourceProgramResourceId": "pi-res-680ea10a2222b265"
+    },
+    {
+      "stableId": "task-3",
+      "route": "task.html?id=task-3",
+      "label": "3 — Tractors and machinery",
+      "categoryId": "machinery-biosecurity",
+      "sourceProgramResourceId": "pi-res-1c8b3088337da333"
+    },
+    {
+      "stableId": "task-4",
+      "route": "task.html?id=task-4",
+      "label": "4 — Machinery and equipment biosecurity",
+      "categoryId": "machinery-biosecurity",
+      "sourceProgramResourceId": "pi-res-0d1a0345fc7c10db"
+    },
+    {
+      "stableId": "task-10",
+      "route": "task.html?id=task-10",
+      "label": "10 — Electric fencing",
+      "categoryId": "farm-infrastructure",
+      "sourceProgramResourceId": "pi-res-c061a41949087914"
+    },
+    {
+      "stableId": "task-11",
+      "route": "task.html?id=task-11",
+      "label": "11 — Farm fencing",
+      "categoryId": "farm-infrastructure",
+      "sourceProgramResourceId": "pi-res-8a5455a5c5057e13"
+    },
+    {
+      "stableId": "task-12",
+      "route": "task.html?id=task-12",
+      "label": "12 — Provide feed for livestock",
+      "categoryId": "livestock-operations",
+      "sourceProgramResourceId": "pi-res-0643af2944818966"
+    },
+    {
+      "stableId": "task-13",
+      "route": "task.html?id=task-13",
+      "label": "13 — Monitor water supplies",
+      "categoryId": "livestock-operations",
+      "sourceProgramResourceId": "pi-res-bb69c2f4cee33f1d"
+    },
+    {
+      "stableId": "task-14",
+      "route": "task.html?id=task-14",
+      "label": "14 — Identify and mark livestock",
+      "categoryId": "livestock-operations",
+      "sourceProgramResourceId": "pi-res-ee2b12fb5efad27c"
+    },
+    {
+      "stableId": "task-15",
+      "route": "task.html?id=task-15",
+      "label": "15 — Plant trees and shrubs",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramResourceId": "pi-res-893f4063d8dd5db1"
+    },
+    {
+      "stableId": "task-16",
+      "route": "task.html?id=task-16",
+      "label": "16 — Recognise plants",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramResourceId": "pi-res-e194be241877e5eb"
+    },
+    {
+      "stableId": "task-17",
+      "route": "task.html?id=task-17",
+      "label": "17 — Plant propagation",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramResourceId": "pi-res-2a186300baf83d71"
+    },
+    {
+      "stableId": "task-18",
+      "route": "task.html?id=task-18",
+      "label": "18 — Soil and growing-media sampling",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramResourceId": "pi-res-3768d39087e436e2"
+    },
+    {
+      "stableId": "task-19",
+      "route": "task.html?id=task-19",
+      "label": "19 — Pot up plants",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramResourceId": "pi-res-55ada8738cbd67e2"
+    },
+    {
+      "stableId": "task-20",
+      "route": "task.html?id=task-20",
+      "label": "20 — Care for nursery plants",
+      "categoryId": "plants-soils-nursery",
+      "sourceProgramResourceId": "pi-res-51a8da5da30f7e26"
+    },
+    {
+      "stableId": "task-21",
+      "route": "task.html?id=task-21",
+      "label": "21 — Prepare livestock for competition",
+      "categoryId": "livestock-operations",
+      "sourceProgramResourceId": "pi-res-2f80ad9888d6d520"
+    },
+    {
+      "stableId": "task-22",
+      "route": "task.html?id=task-22",
+      "label": "22 — Observe and handle livestock",
+      "categoryId": "livestock-operations",
+      "sourceProgramResourceId": "pi-res-022dd99f72b7159b"
+    }
+  ],
+  "counts": {
+    "physicalHtmlFiles": 5,
+    "stableTaskRoutes": 22,
+    "logicalContentViews": 26
+  },
+  "navigation": [
+    "Home",
+    "Complete program",
+    "Task guides",
+    "Resource library",
+    "Source boundary",
+    "Main Page ↗"
+  ],
+  "externalDestinations": {
+    "mainPage": "https://stevencowell.github.io/Main-Page/",
+    "staffroomRoot": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared Documents/Primary Industries"
+  },
+  "boundary": "No student-site route, asset or storage namespace is shared."
+}

@@ -1,0 +1,2476 @@
+{
+  "schemaVersion": "1.0",
+  "artifactId": "primary-industries-public-resource-inventory-v1",
+  "generatedDate": "2026-09-02",
+  "source": {
+    "root": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared Documents/Primary Industries",
+    "authenticatedSourceRequired": true,
+    "inventoryFileCount": 767,
+    "inventoryFolderCount": 162,
+    "inventorySha256": "60d85c34894e8b4db6ae96d02973d85086f055b9f89078cf2866282bf8b1b8ea"
+  },
+  "boundary": {
+    "publicMetadataOnly": true,
+    "sourceFileContentsRepublished": false,
+    "controlledOrPotentiallySensitiveRecordsIncluded": 0,
+    "departmentalSignInRequiredForEverySourceFile": true,
+    "excludedRecordNamesPublished": false
+  },
+  "counts": {
+    "included": 65,
+    "excluded": 702,
+    "currentPrograms": 22,
+    "taskMapped": 45,
+    "shared": 20,
+    "byFormat": {
+      "DOCX": 32,
+      "MP4": 7,
+      "PDF": 21,
+      "PPTX": 5
+    },
+    "byCurrency": {
+      "current-2026": 30,
+      "reference-AHCv9": 27,
+      "supporting": 8
+    },
+    "byPurpose": {
+      "program-planning": 22,
+      "teaching-reference": 7,
+      "whs-compliance": 4,
+      "chemicals-weeds": 2,
+      "machinery-biosecurity-infrastructure": 3,
+      "livestock": 2,
+      "plants-soils": 4,
+      "hsc-revision": 14,
+      "professional-learning": 7
+    }
+  },
+  "resources": [
+    {
+      "id": "pi-res-a1d521070a2b15df",
+      "title": "3.1 Chemicals - VET Teaching Program TEMPLATE",
+      "fileName": "3.1 Chemicals - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/HSC Programs/3.1 Chemicals - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.1 Chemicals - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.1%20Chemicals%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FHSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "hsc-3-1"
+      ],
+      "unitCodes": [
+        "AHCCHM201",
+        "AHCPMG201"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-21T20:24:17Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-21T20:24:17Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "HSC Programs",
+        "3.1 Chemicals - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-aaae6947e557cfe1",
+      "title": "3.2 Safety - VET Teaching Program TEMPLATE",
+      "fileName": "3.2 Safety - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/HSC Programs/3.2 Safety - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.2 Safety - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.2%20Safety%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FHSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "hsc-3-2"
+      ],
+      "unitCodes": [
+        "AHCWHS202"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-21T20:24:39Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-21T20:24:39Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "HSC Programs",
+        "3.2 Safety - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-8771c16649ce9573",
+      "title": "3.3 Sustainability - VET Teaching Program TEMPLATE",
+      "fileName": "3.3 Sustainability - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/HSC Programs/3.3 Sustainability - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.3 Sustainability - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.3%20Sustainability%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FHSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "hsc-3-3"
+      ],
+      "unitCodes": [
+        "AHCWRK211"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-21T20:24:55Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-21T20:24:55Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "HSC Programs",
+        "3.3 Sustainability - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-290c7bb73546719e",
+      "title": "3.4 Weather - VET Teaching Program TEMPLATE",
+      "fileName": "3.4 Weather - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/HSC Programs/3.4 Weather - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.4 Weather - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.4%20Weather%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FHSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "hsc-3-4"
+      ],
+      "unitCodes": [
+        "AHCWRK210"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-21T20:25:12Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-21T20:25:12Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "HSC Programs",
+        "3.4 Weather - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-e3dd8766599808e4",
+      "title": "3.5 Working in the industry 2AG- VET Teaching Program TEMPLATE",
+      "fileName": "3.5 Working in the industry 2AG- VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/HSC Programs/3.5 Working in the industry 2AG- VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.5 Working in the industry 2AG- VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.5%20Working%20in%20the%20industry%202AG-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FHSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "hsc-3-5"
+      ],
+      "unitCodes": [
+        "AHCWRK212",
+        "AHCWRK213"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-21T20:54:48Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-21T20:54:48Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "HSC Programs",
+        "3.5 Working in the industry 2AG- VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-39dc2956c787492e",
+      "title": "3.6 Health and welfare - VET Teaching Program TEMPLATE",
+      "fileName": "3.6 Health and welfare - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/HSC Programs/3.6 Health and welfare - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.6 Health and welfare - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.6%20Health%20and%20welfare%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FHSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "hsc-3-6"
+      ],
+      "unitCodes": [
+        "AHCLSK222"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-22T20:02:18Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-22T20:02:18Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "HSC Programs",
+        "3.6 Health and welfare - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-680ea10a2222b265",
+      "title": "3.7 Treat plants - VET Teaching Program TEMPLATE",
+      "fileName": "3.7 Treat plants - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/HSC Programs/3.7 Treat plants - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/HSC Programs/3.7 Treat plants - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/HSC%20Programs/3.7%20Treat%20plants%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FHSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "hsc-3-7"
+      ],
+      "unitCodes": [
+        "AHCPMG202"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-21T20:25:45Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-21T20:25:45Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "HSC Programs",
+        "3.7 Treat plants - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-c061a41949087914",
+      "title": "Task 10 - Electric fencing - VET Teaching Program TEMPLATE",
+      "fileName": "Task 10 - Electric fencing - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 10 - Electric fencing - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 10 - Electric fencing - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2010%20-%20Electric%20fencing%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-10"
+      ],
+      "unitCodes": [
+        "AHCINF205"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:16Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:16Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 10 - Electric fencing - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-8a5455a5c5057e13",
+      "title": "Task 11 - Farm fencing- VET Teaching Program TEMPLATE",
+      "fileName": "Task 11 - Farm fencing- VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 11 - Farm fencing- VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 11 - Farm fencing- VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2011%20-%20Farm%20fencing-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-11"
+      ],
+      "unitCodes": [
+        "AHCINF206"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2026-02-25T03:46:22Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2026-02-25T03:46:22Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 11 - Farm fencing- VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-0643af2944818966",
+      "title": "Task 12 - Provide Feed - VET Teaching Program TEMPLATE",
+      "fileName": "Task 12 - Provide Feed - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 12 - Provide Feed - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 12 - Provide Feed - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2012%20-%20Provide%20Feed%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-12"
+      ],
+      "unitCodes": [
+        "AHCLSK229"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:15Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:15Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 12 - Provide Feed - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-bb69c2f4cee33f1d",
+      "title": "Task 13 - Monitor water - VET Teaching Program TEMPLATE",
+      "fileName": "Task 13 - Monitor water - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 13 - Monitor water - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 13 - Monitor water - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2013%20-%20Monitor%20water%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-13"
+      ],
+      "unitCodes": [
+        "AHCLSK227"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:18Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:18Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 13 - Monitor water - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-ee2b12fb5efad27c",
+      "title": "Task 14 - Identify and mark - VET Teaching Program TEMPLATE",
+      "fileName": "Task 14 - Identify and mark - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 14 - Identify and mark - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 14 - Identify and mark - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2014%20-%20Identify%20and%20mark%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-14"
+      ],
+      "unitCodes": [
+        "AHCLSK225"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:17Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:17Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 14 - Identify and mark - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-893f4063d8dd5db1",
+      "title": "Task 15 Plant trees and shrubs - VET Teaching Program TEMPLATE",
+      "fileName": "Task 15 Plant trees and shrubs - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 15 Plant trees and shrubs - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 15 Plant trees and shrubs - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2015%20Plant%20trees%20and%20shrubs%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-15"
+      ],
+      "unitCodes": [
+        "AHCPGD207"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:19Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:19Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 15 Plant trees and shrubs - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-e194be241877e5eb",
+      "title": "Task 16 - Recognise plants - VET Teaching Program TEMPLATE",
+      "fileName": "Task 16 - Recognise plants - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 16 - Recognise plants - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 16 - Recognise plants - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2016%20-%20Recognise%20plants%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-16"
+      ],
+      "unitCodes": [
+        "AHCPCM204"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:24Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:24Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 16 - Recognise plants - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-2a186300baf83d71",
+      "title": "Task 17 Propagation - VET Teaching Program TEMPLATE",
+      "fileName": "Task 17 Propagation - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 17 Propagation - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 17 Propagation - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2017%20Propagation%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-17"
+      ],
+      "unitCodes": [
+        "AHCNSY207"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:21Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:21Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 17 Propagation - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-3768d39087e436e2",
+      "title": "Task 18 Soil Sampling and Testing- VET Teaching Program TEMPLATE",
+      "fileName": "Task 18 Soil Sampling and Testing- VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 18 Soil Sampling and Testing- VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 18 Soil Sampling and Testing- VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2018%20Soil%20Sampling%20and%20Testing-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-18"
+      ],
+      "unitCodes": [
+        "AHCSOL203"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:26Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:26Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 18 Soil Sampling and Testing- VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-55ada8738cbd67e2",
+      "title": "Task 19 - Pot up plants - VET Teaching Program TEMPLATE",
+      "fileName": "Task 19 - Pot up plants - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 19 - Pot up plants - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 19 - Pot up plants - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2019%20-%20Pot%20up%20plants%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-19"
+      ],
+      "unitCodes": [
+        "AHCNSY205"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:25Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:25Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 19 - Pot up plants - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-51a8da5da30f7e26",
+      "title": "Task 20 - Nursery plants - VET Teaching Program TEMPLATE",
+      "fileName": "Task 20 -  Nursery plants - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 20 -  Nursery plants - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 20 -  Nursery plants - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2020%20-%20%20Nursery%20plants%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-20"
+      ],
+      "unitCodes": [
+        "AHCNSY206"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:22Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:22Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 20 -  Nursery plants - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-2f80ad9888d6d520",
+      "title": "Task 21 Livestock competition - VET Teaching Program TEMPLATE",
+      "fileName": "Task 21 Livestock competition - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 21 Livestock competition - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 21 Livestock competition - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%2021%20Livestock%20competition%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-21"
+      ],
+      "unitCodes": [
+        "AHCLSK355"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:28Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:28Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 21 Livestock competition - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-022dd99f72b7159b",
+      "title": "TASK 22 Handle and observe livestock- VET Teaching Program TEMPLATE",
+      "fileName": "TASK 22 Handle and observe livestock- VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/TASK 22 Handle and observe livestock- VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/TASK 22 Handle and observe livestock- VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/TASK%2022%20Handle%20and%20observe%20livestock-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-22"
+      ],
+      "unitCodes": [
+        "ACHLSK224",
+        "AHCLSK223"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2026-07-06T02:28:00Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2026-07-06T02:28:00Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "TASK 22 Handle and observe livestock- VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-1c8b3088337da333",
+      "title": "Task 3 - Operate tractors & machinery - VET Teaching Program TEMPLATE",
+      "fileName": "Task 3  - Operate tractors & machinery - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 3  - Operate tractors & machinery - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 3  - Operate tractors & machinery - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%203%20%20-%20Operate%20tractors%20%26%20machinery%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-3"
+      ],
+      "unitCodes": [
+        "AHCMOM202",
+        "AHCMOM304"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:20Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:20Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 3  - Operate tractors & machinery - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-0d1a0345fc7c10db",
+      "title": "Task 4 - Biosecurity - VET Teaching Program TEMPLATE",
+      "fileName": "Task 4 -  Biosecurity - VET Teaching Program TEMPLATE.docx",
+      "relativePath": "2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 4 -  Biosecurity - VET Teaching Program TEMPLATE.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Cert II Agriculture/Non-HSC Programs/Non-HSC Programs/Task 4 -  Biosecurity - VET Teaching Program TEMPLATE.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Cert%20II%20Agriculture/Non-HSC%20Programs/Non-HSC%20Programs/Task%204%20-%20%20Biosecurity%20-%20VET%20Teaching%20Program%20TEMPLATE.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FCert%20II%20Agriculture%2FNon-HSC%20Programs%2FNon-HSC%20Programs",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "program-planning",
+      "purposeLabel": "Program planning",
+      "useFor": "Adapt the current Staffroom program template and record local delivery decisions.",
+      "taskIds": [
+        "task-4"
+      ],
+      "unitCodes": [
+        "AHCBIO203"
+      ],
+      "mappingBasis": [
+        "exact-current-program-source"
+      ],
+      "essential": true,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-09-29T23:47:27Z",
+      "scope": "current-cert-ii-agriculture-program",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-09-29T23:47:27Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Cert II Agriculture",
+        "Non-HSC Programs",
+        "Non-HSC Programs",
+        "Task 4 -  Biosecurity - VET Teaching Program TEMPLATE.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-f38373b0b37f7759",
+      "title": "ALEP22 Apply Chemicals WEB3",
+      "fileName": "ALEP22_Apply_Chemicals_WEB3.pdf",
+      "relativePath": "2026 Resources/Resources/3.1 Chemicals (Chemicals and Weeds)/ALEP22_Apply_Chemicals_WEB3.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Resources/3.1 Chemicals (Chemicals and Weeds)/ALEP22_Apply_Chemicals_WEB3.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Resources/3.1%20Chemicals%20(Chemicals%20and%20Weeds)/ALEP22_Apply_Chemicals_WEB3.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FResources%2F3.1%20Chemicals%20(Chemicals%20and%20Weeds)",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "chemicals-weeds",
+      "purposeLabel": "Chemicals and weeds",
+      "useFor": "Plan supervised chemicals and weeds learning; confirm local chemical, label, PPE and licensing requirements.",
+      "taskIds": [
+        "hsc-3-1"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-10-21T05:23:53Z",
+      "scope": "current-2026-shared-support",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-10-21T05:23:53Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Resources",
+        "3.1 Chemicals (Chemicals and Weeds)",
+        "ALEP22_Apply_Chemicals_WEB3.pdf"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-fe1cacf46259984b",
+      "title": "GRDC-GrowNotes spray-manual-opener 2024",
+      "fileName": "GRDC-GrowNotes_spray-manual-opener_2024.pdf",
+      "relativePath": "2026 Resources/Resources/3.1 Chemicals (Chemicals and Weeds)/GRDC-GrowNotes_spray-manual-opener_2024.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Resources/3.1 Chemicals (Chemicals and Weeds)/GRDC-GrowNotes_spray-manual-opener_2024.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Resources/3.1%20Chemicals%20(Chemicals%20and%20Weeds)/GRDC-GrowNotes_spray-manual-opener_2024.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FResources%2F3.1%20Chemicals%20(Chemicals%20and%20Weeds)",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "chemicals-weeds",
+      "purposeLabel": "Chemicals and weeds",
+      "useFor": "Plan supervised chemicals and weeds learning; confirm local chemical, label, PPE and licensing requirements.",
+      "taskIds": [
+        "hsc-3-1"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-10-21T05:23:53Z",
+      "scope": "current-2026-shared-support",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-10-21T05:23:53Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Resources",
+        "3.1 Chemicals (Chemicals and Weeds)",
+        "GRDC-GrowNotes_spray-manual-opener_2024.pdf"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-b182f0bb3eaf8210",
+      "title": "lpa guidebook",
+      "fileName": "lpa guidebook.pdf",
+      "relativePath": "2026 Resources/Resources/lpa guidebook.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Resources/lpa guidebook.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Resources/lpa%20guidebook.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FResources",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "livestock",
+      "purposeLabel": "Livestock",
+      "useFor": "Plan supervised livestock learning; confirm local animal-welfare, biosecurity and handling procedures.",
+      "taskIds": [
+        "hsc-3-6",
+        "task-12",
+        "task-13",
+        "task-14",
+        "task-21",
+        "task-22"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-10-20T22:49:48Z",
+      "scope": "current-2026-shared-support",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-10-20T22:49:48Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Resources",
+        "lpa guidebook.pdf"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-f344d6e690f43610",
+      "title": "lpa-recording-keeping-booklet-editable",
+      "fileName": "lpa-recording-keeping-booklet-editable.pdf",
+      "relativePath": "2026 Resources/Resources/lpa-recording-keeping-booklet-editable.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Resources/lpa-recording-keeping-booklet-editable.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Resources/lpa-recording-keeping-booklet-editable.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FResources",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "livestock",
+      "purposeLabel": "Livestock",
+      "useFor": "Plan supervised livestock learning; confirm local animal-welfare, biosecurity and handling procedures.",
+      "taskIds": [
+        "hsc-3-6",
+        "task-12",
+        "task-13",
+        "task-14",
+        "task-21",
+        "task-22"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-10-20T22:49:48Z",
+      "scope": "current-2026-shared-support",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-10-20T22:49:48Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Resources",
+        "lpa-recording-keeping-booklet-editable.pdf"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-c0ac14465ff99774",
+      "title": "How to hide tasks in EC for PI (to prevent students moving ahead)",
+      "fileName": "How to hide tasks in EC for PI (to prevent students moving ahead).pdf",
+      "relativePath": "2026 Resources/Hiding Tiles on EC/How to hide tasks in EC for PI (to prevent students moving ahead).pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Hiding Tiles on EC/How to hide tasks in EC for PI (to prevent students moving ahead).pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Hiding%20Tiles%20on%20EC/How%20to%20hide%20tasks%20in%20EC%20for%20PI%20(to%20prevent%20students%20moving%20ahead).pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FHiding%20Tiles%20on%20EC",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "teaching-reference",
+      "purposeLabel": "Teaching reference",
+      "useFor": "Use as an authenticated teacher reference after checking relevance and currency.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-12-18T00:21:07Z",
+      "scope": "current-2026-shared-support",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-12-18T00:21:07Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Hiding Tiles on EC",
+        "How to hide tasks in EC for PI (to prevent students moving ahead).pdf"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-7abc507a4ab08eaf",
+      "title": "Resources Library Instructions",
+      "fileName": "Resources Library Instructions.pdf",
+      "relativePath": "2026 Resources/Resources Library Instructions.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Resources Library Instructions.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Resources%20Library%20Instructions.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "teaching-reference",
+      "purposeLabel": "Teaching reference",
+      "useFor": "Use as an authenticated teacher reference after checking relevance and currency.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2026-02-09T22:50:19Z",
+      "scope": "current-2026-shared-support",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2026-02-09T22:50:19Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Resources Library Instructions.pdf"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-c57b6979a386764e",
+      "title": "AHCWHS202 Workbook 2024 updated",
+      "fileName": "AHCWHS202 Workbook 2024 updated.docx",
+      "relativePath": "2026 Resources/Resources/3.2 Safety (WHS)/AHCWHS202 Workbook 2024 updated.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Resources/3.2 Safety (WHS)/AHCWHS202 Workbook 2024 updated.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Resources/3.2%20Safety%20(WHS)/AHCWHS202%20Workbook%202024%20updated.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FResources%2F3.2%20Safety%20(WHS)",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "whs-compliance",
+      "purposeLabel": "WHS and compliance",
+      "useFor": "Support teacher planning only; confirm the current local procedure, supervision and RTO boundary.",
+      "taskIds": [
+        "hsc-3-2"
+      ],
+      "unitCodes": [
+        "AHCWHS202"
+      ],
+      "mappingBasis": [
+        "explicit-unit-code",
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-10-21T05:23:53Z",
+      "scope": "current-2026-shared-support",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-10-21T05:23:53Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Resources",
+        "3.2 Safety (WHS)",
+        "AHCWHS202 Workbook 2024 updated.docx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-78e9253059afc189",
+      "title": "Farm-Activity",
+      "fileName": "Farm-Activity.pptx",
+      "relativePath": "2026 Resources/Resources/3.2 Safety (WHS)/Farm-Activity.pptx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2026 Resources/Resources/3.2 Safety (WHS)/Farm-Activity.pptx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2026%20Resources/Resources/3.2%20Safety%20(WHS)/Farm-Activity.pptx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2026%20Resources%2FResources%2F3.2%20Safety%20(WHS)",
+      "format": "PPTX",
+      "extension": "pptx",
+      "purpose": "whs-compliance",
+      "purposeLabel": "WHS and compliance",
+      "useFor": "Support teacher planning only; confirm the current local procedure, supervision and RTO boundary.",
+      "taskIds": [
+        "hsc-3-2"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "current-2026",
+      "currencyCue": "2026 Resources; modified 2025-10-21T05:23:53Z",
+      "scope": "current-2026-shared-support",
+      "hideByDefault": false,
+      "lastModifiedUtc": "2025-10-21T05:23:53Z",
+      "sourceBreadcrumb": [
+        "2026 Resources",
+        "Resources",
+        "3.2 Safety (WHS)",
+        "Farm-Activity.pptx"
+      ],
+      "area": "2026 Resources",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-c669e2dbd659c2de",
+      "title": "Chemical flash cards",
+      "fileName": "Chemical flash cards.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Flash cards/Chemical flash cards.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Flash cards/Chemical flash cards.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Flash%20cards/Chemical%20flash%20cards.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FFlash%20cards",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-1"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-24T03:16:15Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-24T03:16:15Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Flash cards",
+        "Chemical flash cards.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-ea2554a0516cfc6e",
+      "title": "HSC Study Workbook - Chemicals",
+      "fileName": "HSC Study Workbook - Chemicals.docx",
+      "relativePath": "2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Chemicals.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Chemicals.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Study%20booklets%20%26%20Exam%20Q%20per%20topic/HSC%20Study%20Workbook%20-%20Chemicals.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FStudy%20booklets%20%26%20Exam%20Q%20per%20topic",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-1"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2025-07-22T02:18:33Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2025-07-22T02:18:33Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Study booklets & Exam Q per topic",
+        "HSC Study Workbook - Chemicals.docx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-4633b78f5fc131d8",
+      "title": "HSC Study Workbook - Livestock",
+      "fileName": "HSC Study Workbook - Livestock.docx",
+      "relativePath": "2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Livestock.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Livestock.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Study%20booklets%20%26%20Exam%20Q%20per%20topic/HSC%20Study%20Workbook%20-%20Livestock.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FStudy%20booklets%20%26%20Exam%20Q%20per%20topic",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-6",
+        "task-12",
+        "task-13",
+        "task-14",
+        "task-21",
+        "task-22"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2025-09-29T21:50:07Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2025-09-29T21:50:07Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Study booklets & Exam Q per topic",
+        "HSC Study Workbook - Livestock.docx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-068a12b9b84f4b34",
+      "title": "HSC Study Workbook - Plants",
+      "fileName": "HSC Study Workbook - Plants.docx",
+      "relativePath": "2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Plants.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Plants.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Study%20booklets%20%26%20Exam%20Q%20per%20topic/HSC%20Study%20Workbook%20-%20Plants.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FStudy%20booklets%20%26%20Exam%20Q%20per%20topic",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-11-21T04:12:43Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-11-21T04:12:43Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Study booklets & Exam Q per topic",
+        "HSC Study Workbook - Plants.docx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-26a7f7cde5dd06ea",
+      "title": "HSC Study Workbook - Safety",
+      "fileName": "HSC Study Workbook - Safety.docx",
+      "relativePath": "2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Safety.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Safety.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Study%20booklets%20%26%20Exam%20Q%20per%20topic/HSC%20Study%20Workbook%20-%20Safety.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FStudy%20booklets%20%26%20Exam%20Q%20per%20topic",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-2"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-31T04:25:02Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-31T04:25:02Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Study booklets & Exam Q per topic",
+        "HSC Study Workbook - Safety.docx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-396811589952c795",
+      "title": "HSC Study Workbook - Sustainability",
+      "fileName": "HSC Study Workbook - Sustainability.docx",
+      "relativePath": "2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Sustainability.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Sustainability.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Study%20booklets%20%26%20Exam%20Q%20per%20topic/HSC%20Study%20Workbook%20-%20Sustainability.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FStudy%20booklets%20%26%20Exam%20Q%20per%20topic",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-3"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-11-11T00:24:32Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-11-11T00:24:32Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Study booklets & Exam Q per topic",
+        "HSC Study Workbook - Sustainability.docx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-1d1e1325b9c883fb",
+      "title": "HSC Study Workbook - Weather",
+      "fileName": "HSC Study Workbook - Weather.docx",
+      "relativePath": "2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Weather.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Study booklets & Exam Q per topic/HSC Study Workbook - Weather.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Study%20booklets%20%26%20Exam%20Q%20per%20topic/HSC%20Study%20Workbook%20-%20Weather.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FStudy%20booklets%20%26%20Exam%20Q%20per%20topic",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-4"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2025-07-10T23:51:40Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2025-07-10T23:51:40Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Study booklets & Exam Q per topic",
+        "HSC Study Workbook - Weather.docx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-f7f02a1ad4dc9928",
+      "title": "Livestock flash cards",
+      "fileName": "Livestock flash cards.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Flash cards/Livestock flash cards.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Flash cards/Livestock flash cards.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Flash%20cards/Livestock%20flash%20cards.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FFlash%20cards",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-6",
+        "task-12",
+        "task-13",
+        "task-14",
+        "task-21",
+        "task-22"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-24T03:16:15Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-24T03:16:15Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Flash cards",
+        "Livestock flash cards.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-f995267890885565",
+      "title": "NESA key words and connectives VET",
+      "fileName": "NESA key words and connectives VET.docx",
+      "relativePath": "NESA key words and connectives VET.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/NESA key words and connectives VET.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/NESA%20key%20words%20and%20connectives%20VET.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "supporting",
+      "currencyCue": "(root); modified 2026-04-21T00:17:32Z",
+      "scope": "supporting-reference",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2026-04-21T00:17:32Z",
+      "sourceBreadcrumb": [
+        "NESA key words and connectives VET.docx"
+      ],
+      "area": "(root)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-1167b225a8e9208a",
+      "title": "Plants flash cards",
+      "fileName": "Plants flash cards.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Flash cards/Plants flash cards.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Flash cards/Plants flash cards.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Flash%20cards/Plants%20flash%20cards.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FFlash%20cards",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-24T03:16:15Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-24T03:16:15Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Flash cards",
+        "Plants flash cards.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-55dbc3b4f50368d4",
+      "title": "Safety flash cards",
+      "fileName": "Safety flash cards.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Flash cards/Safety flash cards.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Flash cards/Safety flash cards.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Flash%20cards/Safety%20flash%20cards.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FFlash%20cards",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-2"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-24T03:16:15Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-24T03:16:15Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Flash cards",
+        "Safety flash cards.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-10d18833c8640338",
+      "title": "Sustainability flash cards",
+      "fileName": "Sustainability flash cards.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Flash cards/Sustainability flash cards.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Flash cards/Sustainability flash cards.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Flash%20cards/Sustainability%20flash%20cards.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FFlash%20cards",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-3"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-24T03:16:15Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-24T03:16:15Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Flash cards",
+        "Sustainability flash cards.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-5b81bf32857f8b9b",
+      "title": "Weather flash cards",
+      "fileName": "Weather flash cards .pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Flash cards/Weather flash cards .pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Flash cards/Weather flash cards .pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Flash%20cards/Weather%20flash%20cards%20.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FFlash%20cards",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-4"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-24T03:16:15Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-24T03:16:15Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Flash cards",
+        "Weather flash cards .pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-c4fff4a66976b4b4",
+      "title": "Working in Industry flash cards",
+      "fileName": "Working in Industry flash cards.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Flash cards/Working in Industry flash cards.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Flash cards/Working in Industry flash cards.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Flash%20cards/Working%20in%20Industry%20flash%20cards.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FFlash%20cards",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "hsc-revision",
+      "purposeLabel": "HSC teaching and revision",
+      "useFor": "Plan authenticated HSC teaching, revision or writing support; confirm currency before use.",
+      "taskIds": [
+        "hsc-3-5"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-24T03:16:15Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-24T03:16:15Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Flash cards",
+        "Working in Industry flash cards.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-2f885375982ca901",
+      "title": "AHCBIO203 PowerPoint Presentation",
+      "fileName": "AHCBIO203 PowerPoint Presentation.pptx",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Biosecurity/AHCBIO203 PowerPoint Presentation.pptx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Biosecurity/AHCBIO203 PowerPoint Presentation.pptx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Biosecurity/AHCBIO203%20PowerPoint%20Presentation.pptx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FBiosecurity",
+      "format": "PPTX",
+      "extension": "pptx",
+      "purpose": "machinery-biosecurity-infrastructure",
+      "purposeLabel": "Machinery, biosecurity and infrastructure",
+      "useFor": "Plan supervised practical learning; confirm local equipment, biosecurity, fencing and safe-work procedures.",
+      "taskIds": [
+        "task-4"
+      ],
+      "unitCodes": [
+        "AHCBIO203"
+      ],
+      "mappingBasis": [
+        "explicit-unit-code",
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-21T00:32:43Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-21T00:32:43Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Biosecurity",
+        "AHCBIO203 PowerPoint Presentation.pptx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-9f97777655ca860a",
+      "title": "ALEP12 Install Fencing Web",
+      "fileName": "ALEP12_Install_Fencing_Web.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Fencing/ALEP12_Install_Fencing_Web.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Fencing/ALEP12_Install_Fencing_Web.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Fencing/ALEP12_Install_Fencing_Web.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FFencing",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "machinery-biosecurity-infrastructure",
+      "purposeLabel": "Machinery, biosecurity and infrastructure",
+      "useFor": "Plan supervised practical learning; confirm local equipment, biosecurity, fencing and safe-work procedures.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-05-02T02:52:42Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-05-02T02:52:42Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Fencing",
+        "ALEP12_Install_Fencing_Web.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-4b4e475a76069350",
+      "title": "Farm Biosecurity Resources",
+      "fileName": "Farm Biosecurity Resources.docx",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Biosecurity/Farm Biosecurity Resources.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Biosecurity/Farm Biosecurity Resources.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Biosecurity/Farm%20Biosecurity%20Resources.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FBiosecurity",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "machinery-biosecurity-infrastructure",
+      "purposeLabel": "Machinery, biosecurity and infrastructure",
+      "useFor": "Plan supervised practical learning; confirm local equipment, biosecurity, fencing and safe-work procedures.",
+      "taskIds": [
+        "task-4"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2026-05-05T04:45:52Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2026-05-05T04:45:52Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Biosecurity",
+        "Farm Biosecurity Resources.docx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-a6050bc1fcd80e78",
+      "title": "Building soil carbon people, planet and production",
+      "fileName": "Building soil carbon people, planet and production.pptx",
+      "relativePath": "2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Building soil carbon people, planet and production.pptx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Building soil carbon people, planet and production.pptx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/2024%20CSU%20Ag%20Conference/Building%20soil%20carbon%20people%2C%20planet%20and%20production.pptx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2F2024%20CSU%20Ag%20Conference",
+      "format": "PPTX",
+      "extension": "pptx",
+      "purpose": "plants-soils",
+      "purposeLabel": "Plants, nursery and soils",
+      "useFor": "Plan plants, nursery and soils learning; confirm local species, site, equipment and environmental procedures.",
+      "taskIds": [
+        "hsc-3-3"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-21T03:01:08Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-21T03:01:08Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "2024 CSU Ag Conference",
+        "Building soil carbon people, planet and production.pptx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-c92b866b2349acb1",
+      "title": "D1 9.00 Jason Condon Making soils easier to understand",
+      "fileName": "D1 9.00 Jason Condon Making soils easier to understand.pptx",
+      "relativePath": "2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/D1 9.00 Jason Condon Making soils easier to understand.pptx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/D1 9.00 Jason Condon Making soils easier to understand.pptx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/2024%20CSU%20Ag%20Conference/D1%209.00%20Jason%20Condon%20Making%20soils%20easier%20to%20understand.pptx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2F2024%20CSU%20Ag%20Conference",
+      "format": "PPTX",
+      "extension": "pptx",
+      "purpose": "plants-soils",
+      "purposeLabel": "Plants, nursery and soils",
+      "useFor": "Plan plants, nursery and soils learning; confirm local species, site, equipment and environmental procedures.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-21T03:01:19Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-21T03:01:19Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "2024 CSU Ag Conference",
+        "D1 9.00 Jason Condon Making soils easier to understand.pptx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-2ab1273af1cba47b",
+      "title": "Soil Composition Instructions ORGILL",
+      "fileName": "Soil Composition Instructions ORGILL.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Soil Composition Instructions ORGILL.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Soil Composition Instructions ORGILL.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/2024%20CSU%20Ag%20Conference/Soil%20Composition%20Instructions%20ORGILL.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2F2024%20CSU%20Ag%20Conference",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "plants-soils",
+      "purposeLabel": "Plants, nursery and soils",
+      "useFor": "Plan plants, nursery and soils learning; confirm local species, site, equipment and environmental procedures.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-27T22:11:07Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-27T22:11:07Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "2024 CSU Ag Conference",
+        "Soil Composition Instructions ORGILL.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-c68cf3b04e8074ea",
+      "title": "Soil Structure - Slaking Disperson Instructions ORGILL",
+      "fileName": "Soil Structure - Slaking Disperson Instructions ORGILL.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Soil Structure - Slaking Disperson Instructions ORGILL.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Soil Structure - Slaking Disperson Instructions ORGILL.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/2024%20CSU%20Ag%20Conference/Soil%20Structure%20-%20Slaking%20Disperson%20Instructions%20ORGILL.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2F2024%20CSU%20Ag%20Conference",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "plants-soils",
+      "purposeLabel": "Plants, nursery and soils",
+      "useFor": "Plan plants, nursery and soils learning; confirm local species, site, equipment and environmental procedures.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-27T22:11:07Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-27T22:11:07Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "2024 CSU Ag Conference",
+        "Soil Structure - Slaking Disperson Instructions ORGILL.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-2f7d044aa7ca7230",
+      "title": "Primary Industries – Establishing skills for writing success in the HSC Exam-20260526 153019-Meeting Recording",
+      "fileName": "Primary Industries – Establishing skills for writing success in the HSC Exam-20260526_153019-Meeting Recording.mp4",
+      "relativePath": "Recordings/Primary Industries – Establishing skills for writing success in the HSC Exam-20260526_153019-Meeting Recording.mp4",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/Recordings/Primary Industries – Establishing skills for writing success in the HSC Exam-20260526_153019-Meeting Recording.mp4",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/Recordings/Primary%20Industries%20%E2%80%93%20Establishing%20skills%20for%20writing%20success%20in%20the%20HSC%20Exam-20260526_153019-Meeting%20Recording.mp4",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2FRecordings",
+      "format": "MP4",
+      "extension": "mp4",
+      "purpose": "professional-learning",
+      "purposeLabel": "Professional learning",
+      "useFor": "Open the authenticated recording or staff resource for professional learning and local planning.",
+      "taskIds": [
+        "hsc-3-5"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "supporting",
+      "currencyCue": "Recordings; modified 2026-05-26T06:19:01Z",
+      "scope": "authenticated-professional-learning",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2026-05-26T06:19:01Z",
+      "sourceBreadcrumb": [
+        "Recordings",
+        "Primary Industries – Establishing skills for writing success in the HSC Exam-20260526_153019-Meeting Recording.mp4"
+      ],
+      "area": "Recordings",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-2b1c8c99e7c90386",
+      "title": "Stage 6 Effective feedback for VET courses - professional learning-20260720 130504-Meeting Recording",
+      "fileName": "Stage 6 Effective feedback for VET courses - professional learning-20260720_130504-Meeting Recording.mp4",
+      "relativePath": "Recordings/Stage 6 Effective feedback for VET courses - professional learning-20260720_130504-Meeting Recording.mp4",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/Recordings/Stage 6 Effective feedback for VET courses - professional learning-20260720_130504-Meeting Recording.mp4",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/Recordings/Stage%206%20Effective%20feedback%20for%20VET%20courses%20-%20professional%20learning-20260720_130504-Meeting%20Recording.mp4",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2FRecordings",
+      "format": "MP4",
+      "extension": "mp4",
+      "purpose": "professional-learning",
+      "purposeLabel": "Professional learning",
+      "useFor": "Open the authenticated recording or staff resource for professional learning and local planning.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "supporting",
+      "currencyCue": "Recordings; modified 2026-07-20T03:50:39Z",
+      "scope": "authenticated-professional-learning",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2026-07-20T03:50:39Z",
+      "sourceBreadcrumb": [
+        "Recordings",
+        "Stage 6 Effective feedback for VET courses - professional learning-20260720_130504-Meeting Recording.mp4"
+      ],
+      "area": "Recordings",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-a1905ed3f2654260",
+      "title": "Using HSC Data to plan for Stage 6 improvement - Primary Industries - Western Division-20260204 233217UTC-Meeting Recording",
+      "fileName": "Using HSC Data to plan for Stage 6 improvement - Primary Industries - Western Division-20260204_233217UTC-Meeting Recording.mp4",
+      "relativePath": "Recordings/Using HSC Data to plan for Stage 6 improvement - Primary Industries - Western Division-20260204_233217UTC-Meeting Recording.mp4",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/Recordings/Using HSC Data to plan for Stage 6 improvement - Primary Industries - Western Division-20260204_233217UTC-Meeting Recording.mp4",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/Recordings/Using%20HSC%20Data%20to%20plan%20for%20Stage%206%20improvement%20-%20Primary%20Industries%20-%20Western%20Division-20260204_233217UTC-Meeting%20Recording.mp4",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2FRecordings",
+      "format": "MP4",
+      "extension": "mp4",
+      "purpose": "professional-learning",
+      "purposeLabel": "Professional learning",
+      "useFor": "Open the authenticated recording or staff resource for professional learning and local planning.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "supporting",
+      "currencyCue": "Recordings; modified 2026-02-05T03:34:24Z",
+      "scope": "authenticated-professional-learning",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2026-02-05T03:34:24Z",
+      "sourceBreadcrumb": [
+        "Recordings",
+        "Using HSC Data to plan for Stage 6 improvement - Primary Industries - Western Division-20260204_233217UTC-Meeting Recording.mp4"
+      ],
+      "area": "Recordings",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-8d109fbffd2a9aad",
+      "title": "Using HSC Data to plan for Stage 6 improvement - Primary Industries - Western Division-20260205 033215UTC-Meeting Recording",
+      "fileName": "Using HSC Data to plan for Stage 6 improvement - Primary Industries - Western Division-20260205_033215UTC-Meeting Recording.mp4",
+      "relativePath": "Recordings/Using HSC Data to plan for Stage 6 improvement - Primary Industries - Western Division-20260205_033215UTC-Meeting Recording.mp4",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/Recordings/Using HSC Data to plan for Stage 6 improvement - Primary Industries - Western Division-20260205_033215UTC-Meeting Recording.mp4",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/Recordings/Using%20HSC%20Data%20to%20plan%20for%20Stage%206%20improvement%20-%20Primary%20Industries%20-%20Western%20Division-20260205_033215UTC-Meeting%20Recording.mp4",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2FRecordings",
+      "format": "MP4",
+      "extension": "mp4",
+      "purpose": "professional-learning",
+      "purposeLabel": "Professional learning",
+      "useFor": "Open the authenticated recording or staff resource for professional learning and local planning.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "supporting",
+      "currencyCue": "Recordings; modified 2026-02-05T03:55:48Z",
+      "scope": "authenticated-professional-learning",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2026-02-05T03:55:48Z",
+      "sourceBreadcrumb": [
+        "Recordings",
+        "Using HSC Data to plan for Stage 6 improvement - Primary Industries - Western Division-20260205_033215UTC-Meeting Recording.mp4"
+      ],
+      "area": "Recordings",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-1d7aae8bd42ea2f8",
+      "title": "Using HSC Data to plan for Stage 6 improvement Primary Industries Eastern Division-20260128 225622UTC-Meeting Recording",
+      "fileName": "Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260128_225622UTC-Meeting Recording.mp4",
+      "relativePath": "Recordings/Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260128_225622UTC-Meeting Recording.mp4",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/Recordings/Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260128_225622UTC-Meeting Recording.mp4",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/Recordings/Using%20HSC%20Data%20to%20plan%20for%20Stage%206%20improvement%20Primary%20Industries_%20Eastern%20Division-20260128_225622UTC-Meeting%20Recording.mp4",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2FRecordings",
+      "format": "MP4",
+      "extension": "mp4",
+      "purpose": "professional-learning",
+      "purposeLabel": "Professional learning",
+      "useFor": "Open the authenticated recording or staff resource for professional learning and local planning.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "supporting",
+      "currencyCue": "Recordings; modified 2026-01-28T23:07:43Z",
+      "scope": "authenticated-professional-learning",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2026-01-28T23:07:43Z",
+      "sourceBreadcrumb": [
+        "Recordings",
+        "Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260128_225622UTC-Meeting Recording.mp4"
+      ],
+      "area": "Recordings",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-e19949c7df8599b1",
+      "title": "Using HSC Data to plan for Stage 6 improvement Primary Industries Eastern Division-20260128 230926UTC-Meeting Recording",
+      "fileName": "Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260128_230926UTC-Meeting Recording.mp4",
+      "relativePath": "Recordings/Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260128_230926UTC-Meeting Recording.mp4",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/Recordings/Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260128_230926UTC-Meeting Recording.mp4",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/Recordings/Using%20HSC%20Data%20to%20plan%20for%20Stage%206%20improvement%20Primary%20Industries_%20Eastern%20Division-20260128_230926UTC-Meeting%20Recording.mp4",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2FRecordings",
+      "format": "MP4",
+      "extension": "mp4",
+      "purpose": "professional-learning",
+      "purposeLabel": "Professional learning",
+      "useFor": "Open the authenticated recording or staff resource for professional learning and local planning.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "supporting",
+      "currencyCue": "Recordings; modified 2026-01-28T23:11:33Z",
+      "scope": "authenticated-professional-learning",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2026-01-28T23:11:33Z",
+      "sourceBreadcrumb": [
+        "Recordings",
+        "Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260128_230926UTC-Meeting Recording.mp4"
+      ],
+      "area": "Recordings",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-28c6dbbf8827eb50",
+      "title": "Using HSC Data to plan for Stage 6 improvement Primary Industries Eastern Division-20260204 233528UTC-Meeting Recording",
+      "fileName": "Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260204_233528UTC-Meeting Recording.mp4",
+      "relativePath": "Recordings/Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260204_233528UTC-Meeting Recording.mp4",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/Recordings/Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260204_233528UTC-Meeting Recording.mp4",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/Recordings/Using%20HSC%20Data%20to%20plan%20for%20Stage%206%20improvement%20Primary%20Industries_%20Eastern%20Division-20260204_233528UTC-Meeting%20Recording.mp4",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2FRecordings",
+      "format": "MP4",
+      "extension": "mp4",
+      "purpose": "professional-learning",
+      "purposeLabel": "Professional learning",
+      "useFor": "Open the authenticated recording or staff resource for professional learning and local planning.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "supporting",
+      "currencyCue": "Recordings; modified 2026-02-04T23:38:09Z",
+      "scope": "authenticated-professional-learning",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2026-02-04T23:38:09Z",
+      "sourceBreadcrumb": [
+        "Recordings",
+        "Using HSC Data to plan for Stage 6 improvement Primary Industries_ Eastern Division-20260204_233528UTC-Meeting Recording.mp4"
+      ],
+      "area": "Recordings",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-fb4e944838cb21ed",
+      "title": "A manual of practical agriculture",
+      "fileName": "A manual of practical agriculture.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Practical Agriculture/A manual of practical agriculture.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Practical Agriculture/A manual of practical agriculture.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Practical%20Agriculture/A%20manual%20of%20practical%20agriculture.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FPractical%20Agriculture",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "teaching-reference",
+      "purposeLabel": "Teaching reference",
+      "useFor": "Use as an authenticated teacher reference after checking relevance and currency.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-06-03T01:57:05Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-06-03T01:57:05Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Practical Agriculture",
+        "A manual of practical agriculture.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-d93b2f0a23f3aa06",
+      "title": "GDF PairTree Dash Flyer",
+      "fileName": "GDF PairTree Dash Flyer.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/GDF PairTree Dash Flyer.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/GDF PairTree Dash Flyer.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/2024%20CSU%20Ag%20Conference/GDF%20PairTree%20Dash%20Flyer.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2F2024%20CSU%20Ag%20Conference",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "teaching-reference",
+      "purposeLabel": "Teaching reference",
+      "useFor": "Use as an authenticated teacher reference after checking relevance and currency.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-27T22:11:07Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-27T22:11:07Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "2024 CSU Ag Conference",
+        "GDF PairTree Dash Flyer.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-fcce777b82ff30da",
+      "title": "Luciano Mesiti PIEFA",
+      "fileName": "Luciano Mesiti PIEFA.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Luciano Mesiti PIEFA.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Luciano Mesiti PIEFA.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/2024%20CSU%20Ag%20Conference/Luciano%20Mesiti%20PIEFA.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2F2024%20CSU%20Ag%20Conference",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "teaching-reference",
+      "purposeLabel": "Teaching reference",
+      "useFor": "Use as an authenticated teacher reference after checking relevance and currency.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-27T22:11:19Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-27T22:11:19Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "2024 CSU Ag Conference",
+        "Luciano Mesiti PIEFA.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-741648e4f4413e9b",
+      "title": "Phenology FUNdamentals matching crop, environment and management",
+      "fileName": "Phenology FUNdamentals matching crop, environment and management.pptx",
+      "relativePath": "2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Phenology FUNdamentals matching crop, environment and management.pptx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Phenology FUNdamentals matching crop, environment and management.pptx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/2024%20CSU%20Ag%20Conference/Phenology%20FUNdamentals%20matching%20crop%2C%20environment%20and%20management.pptx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2F2024%20CSU%20Ag%20Conference",
+      "format": "PPTX",
+      "extension": "pptx",
+      "purpose": "teaching-reference",
+      "purposeLabel": "Teaching reference",
+      "useFor": "Use as an authenticated teacher reference after checking relevance and currency.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-21T03:01:18Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-21T03:01:18Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "2024 CSU Ag Conference",
+        "Phenology FUNdamentals matching crop, environment and management.pptx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-154d5bc983988514",
+      "title": "Why agriculture needs our best and brightest",
+      "fileName": "Why agriculture needs our best and brightest.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Why agriculture needs our best and brightest.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/2024 CSU Ag Conference/Why agriculture needs our best and brightest.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/2024%20CSU%20Ag%20Conference/Why%20agriculture%20needs%20our%20best%20and%20brightest.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2F2024%20CSU%20Ag%20Conference",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "teaching-reference",
+      "purposeLabel": "Teaching reference",
+      "useFor": "Use as an authenticated teacher reference after checking relevance and currency.",
+      "taskIds": [],
+      "unitCodes": [],
+      "mappingBasis": [
+        "no-current-task-cue"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-27T22:11:11Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-27T22:11:11Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "2024 CSU Ag Conference",
+        "Why agriculture needs our best and brightest.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-4956cf79d9579f92",
+      "title": "Pre-Start-Meetings-Job-Safety-Analysis-JSA-and-Safe-Work-Instructions-SWI-Tractor-and-Machinery-Operations",
+      "fileName": "Pre-Start-Meetings-Job-Safety-Analysis-JSA-and-Safe-Work-Instructions-SWI-Tractor-and-Machinery-Operations.pdf",
+      "relativePath": "2024 Resources (AHCv9)/Resources/Tractors/Pre-Start-Meetings-Job-Safety-Analysis-JSA-and-Safe-Work-Instructions-SWI-Tractor-and-Machinery-Operations.pdf",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Resources/Tractors/Pre-Start-Meetings-Job-Safety-Analysis-JSA-and-Safe-Work-Instructions-SWI-Tractor-and-Machinery-Operations.pdf",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Resources/Tractors/Pre-Start-Meetings-Job-Safety-Analysis-JSA-and-Safe-Work-Instructions-SWI-Tractor-and-Machinery-Operations.pdf",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FResources%2FTractors",
+      "format": "PDF",
+      "extension": "pdf",
+      "purpose": "whs-compliance",
+      "purposeLabel": "WHS and compliance",
+      "useFor": "Support teacher planning only; confirm the current local procedure, supervision and RTO boundary.",
+      "taskIds": [
+        "hsc-3-2",
+        "task-3"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-10-21T03:29:10Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-10-21T03:29:10Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Resources",
+        "Tractors",
+        "Pre-Start-Meetings-Job-Safety-Analysis-JSA-and-Safe-Work-Instructions-SWI-Tractor-and-Machinery-Operations.pdf"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    },
+    {
+      "id": "pi-res-d40dfe7859a693c8",
+      "title": "Prevention of vehicle roll-aways - Fact Sheet",
+      "fileName": "Prevention of vehicle roll-aways - Fact Sheet.docx",
+      "relativePath": "2024 Resources (AHCv9)/Farm Vehicle Safety/Prevention of vehicle roll-aways - Fact Sheet.docx",
+      "sourcePath": "/sites/VETstatewidestaffroom/Shared Documents/Primary Industries/2024 Resources (AHCv9)/Farm Vehicle Safety/Prevention of vehicle roll-aways - Fact Sheet.docx",
+      "directUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Primary%20Industries/2024%20Resources%20(AHCv9)/Farm%20Vehicle%20Safety/Prevention%20of%20vehicle%20roll-aways%20-%20Fact%20Sheet.docx",
+      "containingFolderUrl": "https://schoolsnsw.sharepoint.com/sites/VETstatewidestaffroom/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVETstatewidestaffroom%2FShared%20Documents%2FPrimary%20Industries%2F2024%20Resources%20(AHCv9)%2FFarm%20Vehicle%20Safety",
+      "format": "DOCX",
+      "extension": "docx",
+      "purpose": "whs-compliance",
+      "purposeLabel": "WHS and compliance",
+      "useFor": "Support teacher planning only; confirm the current local procedure, supervision and RTO boundary.",
+      "taskIds": [
+        "hsc-3-2"
+      ],
+      "unitCodes": [],
+      "mappingBasis": [
+        "filename-path-keyword"
+      ],
+      "essential": false,
+      "currencyStatus": "reference-AHCv9",
+      "currencyCue": "2024 Resources (AHCv9); modified 2024-03-21T00:49:46Z",
+      "scope": "reference-ahcv9-confirm-currency",
+      "hideByDefault": true,
+      "lastModifiedUtc": "2024-03-21T00:49:46Z",
+      "sourceBreadcrumb": [
+        "2024 Resources (AHCv9)",
+        "Farm Vehicle Safety",
+        "Prevention of vehicle roll-aways - Fact Sheet.docx"
+      ],
+      "area": "2024 Resources (AHCv9)",
+      "authenticatedSourceRequired": true,
+      "publicMetadataSafe": true,
+      "metadataSafetyBasis": "Filename and path passed conservative rules; file contents remain authenticated and were not republished."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "1.0",
+  "artifactId": "primary-industries-teacher-foundation-manifest-v1",
+  "generatedDate": "2026-09-02",
+  "state": "local integrated candidate; not committed, pushed, deployed or live-verified",
+  "site": {
+    "title": "Primary Industries Statewide Staffroom Teacher Resources",
+    "repository": "stevencowell/primary-industries-statewide-staffroom-teacher-resources",
+    "intendedLiveUrl": "https://stevencowell.github.io/primary-industries-statewide-staffroom-teacher-resources/",
+    "audience": "Teachers only"
+  },
+  "files": {
+    "routes": [
+      "index.html",
+      "program.html",
+      "library.html",
+      "task.html",
+      "sources.html"
+    ],
+    "assets": [
+      "assets/styles.css",
+      "assets/favicon.svg",
+      "assets/site-data.js",
+      "assets/resource-data.js",
+      "assets/app.js"
+    ],
+    "governance": [
+      "governance/source-register.md",
+      "governance/resource-inventory.json",
+      "governance/source-map.json",
+      "governance/foundation-manifest.json",
+      "governance/route-map.json"
+    ],
+    "programDownloadSlots": [
+      "downloads/Primary_Industries_Aligned_Teacher_Delivery_Program.docx",
+      "downloads/Primary_Industries_Aligned_Teacher_Delivery_Program.pdf",
+      "downloads/Primary_Industries_Delivery_Ledger.csv"
+    ]
+  },
+  "dataCounts": {
+    "taskGuides": 22,
+    "taskGroups": 6,
+    "deliveryBlocks": 80,
+    "publicResources": 65,
+    "currentResources": 30,
+    "referenceAndSupportingResources": 35
+  },
+  "technicalBoundary": {
+    "staticSite": true,
+    "persistentStorage": false,
+    "assessmentResultsStored": false,
+    "controlledContentCopied": false,
+    "studentSiteDependency": false,
+    "authenticatedSourceRequired": true
+  },
+  "visualException": {
+    "purposefulPhotographTarget": 0,
+    "justification": "This is a teacher-only authenticated-file navigator and delivery-program site, not a student learning-package build. Republished photography would be decorative, could create rights/privacy risk and would not teach an in-scope student concept. Existing Staffroom visuals remain authenticated pointers only."
+  },
+  "releaseInvalidationRules": [
+    "Any change to the 22-program source extract or its task/unit relationships.",
+    "Any change to the 65-record public resource dataset or metadata-safety decision.",
+    "Any unresolved controlled-content, learner-data or public-path leak.",
+    "Any route, download, responsive, keyboard or direct-link failure."
+  ]
+}
